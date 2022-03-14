@@ -1,20 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Roboto:wght@100&display=swap');
 
-CSS
-.fa-1x {
-font-size: 1.5rem;
+body {
+    font-family: 'Bangers', sans-serif !important;
+    font-weight: 300;
 }
-.navbar-toggler.toggler-example {
-cursor: pointer;
-}
-.dark-blue-text {
-color: #0A38F5;
-}
-.dark-pink-text {
-color: #AC003A;
-}
-.dark-amber-text {
-color: #ff6f00;
-}
-.dark-teal-text {
-color: #004d40;
+
+h1, h2 {
+    font-family: 'Bangers', sans-serif !important;
 }
