@@ -52,6 +52,13 @@ body {
     font-size: 1.2rem;
 }
 
+.nav-menu a:hover{
+    color: #786C44;
+}
+
+#navbar a:hover {
+    color: #786C44;
+}
 /* End of tutorial code*/
 
 #logo {
