@@ -1,10 +1,10 @@
 # Portfolio Project 1 - HTML/CSS Essentials
 
 ## Live Site 
-add link here 
+<!-- add link here -->
 
 ## Repository 
-add link here 
+<!--add link here -->
 
 ***
 
@@ -57,10 +57,12 @@ Dog lovers, Art enthusiasts, collaborators & customers.
 
 ## UX: User Experience
 
+<!-- missing section -->
+
 ## Initial Concept
 With such compelling visual content from the Artist, I want to create a minimal and sleek monochrome theme to allow the work to shine and not have to compete with the website design. The text and image components of the website will be styled with black outlines, to mimic framed portraits. 
 
-link to about page photo wall
+<!--link to about page photo wall-->
 
 ## Wireframes
 
@@ -112,12 +114,12 @@ The site contains common features such as a navigational bar and footer, familia
 ##### Navigational Bar 
 Heading each page top, it’s fully responsive and toggles to a neat hambuger menu. It contains links to all pages, reachable at any time within the user's journey through the site. The Logo contains the link to the home page. 
 
-picture of nav bar
+<!--picture of nav bar -->
 
 ##### Footer 
 Sat at the bottom of all pages, is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. it also contains a link to the developers github portfolio, should the user be an employer wanting to experience more of their work.
 
-pic of footer 
+<!-- pic of footer -->
 
 #### Dogs 
 
@@ -172,7 +174,6 @@ Please refer here for more information on testing of Pawsome Portraits
 
 <!-- add link and create new doc re testing -->
 
-
 The site was deployed to GitHub pages. 
 
 ### Deployment Istructions
@@ -203,7 +204,7 @@ To make a copy or ‘fork’ the repository -
 6. press enter and the local clone will be created 
 
 
-<!-- NEED TO REWORD THIS ITS BASICALLY IN WAWWAS LANGUAGE -->
+<!-- NEED TO REWORD THIS ITS BASICALLY IN WAWWAS LANGUAGE pic of cloning processes -->
 
 ## Credits 
 
