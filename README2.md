@@ -214,6 +214,8 @@ NEED TO REWORD THIS ITS BASICALLY IN WAWWAS LANGUAGE
 - Ger, a CI mentor helped with my understanding of a responsive css nav bar. 
 - Inspiration for the readme came from Dave Horricks
 
+***
+
 ### Media 
 All photos and the rights to them are owned by the aritst Craig Antony Kelly, who gave his full permission for use in this website.
 
