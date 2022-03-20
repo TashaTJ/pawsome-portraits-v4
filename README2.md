@@ -64,7 +64,7 @@ link to about page photo wall
 
 ## Wireframes
 
-The Wireframes were produced using LINK Balsamiq 
+The Wireframes were produced using [Balsamiq](https://balsamiq.com/) 
 The final site varies from the wireframes due to developments the occured during the building process. 
 
 Home:
@@ -73,7 +73,7 @@ about:
 learn:
 Contact:
 
-see here (add link to external doc within  repo, see daves readme for inspo)
+<!-- see here (add link to external doc within repo, see daves readme for inspo) -->
 
 ## Site Structure
 
@@ -83,20 +83,20 @@ There is a visual que on each page guiding the user back to the top.
 ## Colour Scheme
 
 My colour scheme will take inspiration from the hero image including white, mellow gold and Black. These colours will form a strong monochrome base point for the website, allowing the vibrant colours of the artwork to ‘pop’.
-I used coolors.co to generate some colour codes as inspiration for the site. 
+I used [coolors.co](https://coolors.co/d3ab9e-eac9c1-ebd8d0-fffbff-fefeff) to generate some colour codes as inspiration for the site. 
 
-pic of colour scheme
+<!-- pic of colour scheme -->
 
 ## Typography
 
-The two fonts used were imported into the css from google fonts.
+The two fonts used were imported into the css from [google fonts](https://fonts.google.com/).
 Bangers, for headings and titles, was chosen for it’s playful comicbook nature, which compliments the cheeky character of the dogs brought about in the portriats themselves. 
 Roboto, with it’s friendly, open curves continues this positive and welcoming theme into the paragraph text. 
 Sans-serif is the nominated fallback font, due to it’s simplicity, therefore allowing it to integrate well into the site should the other fonts not load. 
 
 ## Imagery
 
-The artwork is the main focus of the site and therefor features heavily within it. Many have been compressed in compressor.io to enable faster loading times. 
+The artwork is the main focus of the site and therefor features heavily within it. Many have been compressed in [compressor.io](https://compressor.io/) to enable faster loading times. 
 The background images form a wallpaper for the about and sign up pages, whereas the content images are aligned in neat grids for optimal viewing and user experience. 
 
 ***
