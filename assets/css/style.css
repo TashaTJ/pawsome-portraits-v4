@@ -288,15 +288,15 @@ body {
     background-color: white;
 }
 
-.background-about {
-    /*height: 100vh; */
+/* .background-about {
+    /*height: 100vh; 
     background-image: url(../images/background-about-image-6.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-}
+} */
 
-.about-wrap {
+.about-wrap {  /* same as contact-wrap */
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -304,9 +304,38 @@ body {
     padding: 2rem 2rem 2rem;
 }
 
+.about-second-wrap {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    align-items: center;
+    padding: 2rem 2rem 2rem;
+
+}
+
 .about-craig {
     display: flex;
+    width: 40%;
+    height: 40%;
+    justify-content: center;
+}
 
+.about-top {
+    width: 50rem;
+    background-color: white;
+}
+
+/* .contact-dog {
+    display: flex;
+    width: 40%;
+    height: 40%;
+    justify-content: center;
+}*/
+
+.contact-dog img {
+    width: 20%;
+    height: 20%;
+    align-items: center;
 }
 
 
