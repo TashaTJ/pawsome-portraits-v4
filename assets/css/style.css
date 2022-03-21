@@ -328,11 +328,13 @@ body {
 .about-text h1 {
     font-size: 2rem;
     margin-bottom: 2rem;
+    text-align: center;
 }
 
 .about-text p {
     font-size: 1.25rem;
     font-family: Roboto, sans-serif;
+    text-align: center;
 }
 
 /* .contact-dog {
@@ -346,6 +348,7 @@ body {
     width: 20%;
     height: 20%;
     align-items: center;
+    transition: 500ms ease all;
 }
 
 
@@ -478,7 +481,7 @@ form {
 }
 
 textarea {
-    font-family: sans-serif;
+    font-family: Roboto;
     font-size: 14px;
     font-weight: 500;
     padding: 4px 0;
@@ -516,6 +519,22 @@ textarea:focus {
     .image-grid {
         --num-cols: 2;
         --row-height: 200px;
+    }
+
+    .about-wrap {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;  
+        text-align: center; 
+    }
+
+    .about-second-wrap {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center; 
+        text-align: center;  
     }
 
     .contact-top {
