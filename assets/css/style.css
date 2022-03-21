@@ -245,10 +245,10 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    padding: 2rem 2rem 2rem;
+    padding: 2rem 2rem 20rem;
     min-height: calc(100vh - 16.4rem);
     box-sizing: border-box;
-    background-color: rgba(131,235,221,0.2);
+    /* background-color: rgba(131,235,221,0.2); */
 }
 
 .about p {
@@ -275,8 +275,8 @@ body {
     background-color: white;
 }
 .background-about {
-    height: 100vh;
-    background-image: url(../images/Background-about-page-desktop.jpg);
+    /*height: 100vh; */
+    background-image: url(../images/compressed-images/background-about-image-3.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -344,7 +344,7 @@ body {
 
 .bg-contact {
     height: 100vh;
-    background-image: url(../images/background-image-contact-3.jpg);
+    background-image: url(../images/background-about-image.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
