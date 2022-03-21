@@ -357,13 +357,13 @@ body {
 
 /* Contact Page */
 
-.background-contact {
-    /* height: 100vh; */
+/* .background-contact {
+    /* height: 100vh; 
     background-image: url(../images/contact-bg-iphone.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-} 
+} */
 
 .contact-dog {
     display: flex;
@@ -383,7 +383,7 @@ body {
     justify-content: space-around;
     align-items: center;
     /* background-color: #f2f2f2; */
-    padding: 2rem 2rem 20rem;
+    padding: 2rem 2rem 2rem;
 }
 
 .contact-top {
