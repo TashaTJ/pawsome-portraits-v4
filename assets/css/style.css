@@ -359,22 +359,35 @@ body {
 
 .background-contact {
     /* height: 100vh; */
-    background-image: url(../images/contact-bg.png);
+    background-image: url(../images/contact-bg-4.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+} 
+
+.contact-dog {
+    display: flex;
+    width: 40%;
+    height: 40%;
+    justify-content: center;
+}
+
+.contact-dog img {
+    width: 80%;
+    height: 80%;
+    align-items: center;
 }
 
 .contact-wrap {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     /* background-color: #f2f2f2; */
     padding: 2rem 2rem 20rem;
 }
 
 .contact-top {
-    width: 500px;
+    width: 50rem;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
     background-color: white;
     outline: 0.5rem solid black;
@@ -454,7 +467,22 @@ textarea:focus {
 
     .contact-top {
         width: 300px;
-        margin-top: 50px;
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+    }
+
+    .contact-wrap {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;   
+    }
+
+    .contact-dog {
+        display: flex;
+        width: 100%;
+        height: 100%;
+        justify-content: center;
     }
 
     /*  .bg-contact {
@@ -466,11 +494,19 @@ textarea:focus {
         --row-height: 200px;
     }
 
+
     /* .grid .craig {
         grid-template-columns: 1fr;
         grid-template-rows: 1fr;
     } */
 
+}
+
+@media only screen and (min-width:500px) {
+    .image-grid {
+        --num-cols: 2;
+        --row-height: 300px;
+    }
 }
 
 
@@ -513,11 +549,25 @@ textarea:focus {
         object-fit: unset;
 
     }
+
+    .contact-wrap {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;   
+    }
+
+    .contact-dog {
+        display: flex;
+        width: 40%;
+        height: 40%;
+        justify-content: center;
+    }
 }
 
 @media only screen and (min-width: 1024px) {
     .image-grid {
-        --num-cols: 3;
+        --num-cols: 4;
         --row-height: 300px;
     }
 
@@ -534,7 +584,7 @@ textarea:focus {
 
 @media only screen and (min-width: 1440px) {
     .image-grid {
-        --num-cols: 4;
+        --num-cols: 5;
         --row-height: 400px;
     }
 }
