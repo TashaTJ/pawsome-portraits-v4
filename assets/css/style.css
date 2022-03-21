@@ -296,6 +296,20 @@ body {
     background-repeat: no-repeat;
 }
 
+.about-wrap {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: #f2f2f2; */
+    padding: 2rem 2rem 2rem;
+}
+
+.about-craig {
+    display: flex;
+
+}
+
+
 */
 /* Craig*/
 
