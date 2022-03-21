@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Roboto:wght@100&display=swap');
 
+
+/*html {
+    font-size: 16px;
+} */
+
 * {
     margin: 0;
     padding: 0;
@@ -11,15 +16,21 @@
     --black: #000000;
     --offwhite: #f1f0f3;
     --white: #ffff;
+    --gold: #786C44;
+    --blue: #83ebdd;
 }
 
-/* Reset font-size for easier ren unit calculation */
+/* Reset font-size for easier rem unit calculation */
 
 body {
     font-size: 10px;
     background-color: var(--offwhite);
     font-family: Bangers, sans-serif;
 }
+
+/* img {
+    width: 100%;
+}*/
 
 #navbar {
     position: relative;
@@ -73,7 +84,7 @@ body {
 }
 
 .nav-link:hover {
-    border-bottom: 1px solid var(--black);
+    border-bottom: 1rem solid var(--black);
 }
 
 #nav_checkbox:checked~ul.nav-menu li {
@@ -132,10 +143,10 @@ body {
 /* utilities*/
 
 .container {
-    max-width: 2000px;
+    max-width: 1600px;
     margin: 0 auto;
     overflow: auto;
-    padding: 0 10px;
+    padding: 0 4rem;
 }
 
 .card {
@@ -163,9 +174,8 @@ body {
     padding: 10px 30px;
     cursor: pointer;
     color: black;
-    background-color: #CBE0E8;
+    background-color: white;
     border: 1px;
-    border-radius: 2px;
     transition: 500ms ease all;
     outline: 2px solid black;
     margin-top: 2px ;
@@ -173,12 +183,12 @@ body {
 }
 
 .btn-outline {
-    background-color: #CBE0E8;
+    background-color: #aab7b4;
     border: none;
 }
 
 .btn1:hover {
-    background-color:#6bbedf ;
+    background-color: #83ebdd;
     transform: scale(0.98);
 
 }
@@ -192,13 +202,15 @@ body {
 
 .grid {
     display: grid;
-    grid-template-columns: 500px 700px;
-    gap: 10px;
-    justify-content: space-around;
+    grid-template-columns: 50% 50%;
+    gap: 1rem;
+    justify-content: center;
     align-items: center;
-    height: 100%;
+    height: 100%; 
 
 }
+
+
 
 /* gallery page */
 
@@ -226,25 +238,73 @@ body {
 
 /* About Page */
 
+/*from daves code */
+
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 2rem 2rem 2rem;
+    min-height: calc(100vh - 16.4rem);
+    box-sizing: border-box;
+    background-color: rgba(131,235,221,0.2);
+}
+
+.about p {
+    font-family: Roboto;
+    font-size: 1rem;
+    color: var(--black);
+    padding-bottom: 1.6rem;
+}
+
+.about img {
+    width: 20rem;
+}
+
+.about .image-container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    height: 20rem;
+    overflow: hidden;
+}
+
+
+
 .header-about {
     background-color: white;
 }
 .background-about {
-    /*height: 100vh;*/
+    height: 100vh;
     background-image: url(../images/Background-about-page-desktop.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-}
+} 
 
 /* Craig*/
 
 .craig {
-    height: 600px;
-    background-color: rgba(0, 0, 0, 0.2);
+    height: 100%;
+    /*background-color: #786C44; */
     position: relative;
     font-weight: 50px;
 
+}
+
+.craig h1 {
+    font-size: 2rem;
+}
+
+.craig p {
+    margin: 2rem;
+    font-family: roboto;
+    font-size: 1rem;
+}
+
+.craig .grid {
+    grid-template-columns: 55% 45%;
+    gap: 3rem;
 }
 
 .craig-image {
@@ -388,6 +448,12 @@ textarea:focus {
         --num-cols:1;
         --row-height:200px;
     }
+
+    /* .grid .craig {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+    } */
+
 }
 
 
@@ -417,10 +483,6 @@ textarea:focus {
         --row-height: 300px;
     } 
     
-    .grid {
-        grid-template-columns: 1fr;
-        grid-template-rows: 1fr;
-    }
 
     .video-grid {
         --num-cols:1;

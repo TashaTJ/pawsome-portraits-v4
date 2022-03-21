@@ -69,6 +69,8 @@ With such compelling visual content from the Artist, I want to create a minimal 
 The Wireframes were produced using [Balsamiq](https://balsamiq.com/) 
 The final site varies from the wireframes due to developments the occured during the building process. 
 
+<!-- add wireframes here and potentially a link to a page of its own in the project -->
+
 Home:
 Dogs:
 about:
