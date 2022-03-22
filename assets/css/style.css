@@ -567,6 +567,57 @@ textarea:focus {
         justify-content: center;
     }
 
+    .contact-details {
+        
+        background-color: black;
+    
+    }
+
+    .cell {
+        background-color: #83ebdd;
+    }
+
+    .grid3 {
+        display: grid;
+        height: 20rem;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 1rem;
+    }
+
+    .cell-1 {
+        background: black;
+        color: white;
+        text-align: center;
+        margin: auto;
+      }
+
+    .cell-1 h2 {
+        font-size: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .cell-1 ul {
+        text-decoration: none;
+        list-style-type: none;
+        font-family: Roboto, sans-serif;
+        font-size: 1.2rem;
+        font-weight: 300;
+        margin-bottom: 2rem;
+    }
+
+    .cell-1 ul li h3{
+        font-size: 1.4rem
+    }
+
+    .cell-2 {
+        object-fit: cover;
+    }
+
+    #contact-map {
+        
+    }
+
     /*  .bg-contact {
         background-image: url(../images/background-image-iphone-2.jpg);
     } */
