@@ -225,8 +225,8 @@ body {
 
 .image-grid {
     --gap: 16px;
-    --num-cols: 4;
-    --row-height: 300px;
+    --num-cols: 2;
+    --row-height: 200px;
 
     box-sizing: border-box;
     padding: var(--gap);
@@ -303,6 +303,7 @@ body {
 .about-wrap {
     /* same as contact-wrap */
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
     /* background-color: #f2f2f2; */
@@ -311,6 +312,7 @@ body {
 
 .about-second-wrap {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     flex-direction: row-reverse;
     align-items: center;
@@ -419,29 +421,23 @@ body {
 
 /* Contact Page */
 
-/* .background-contact {
-    /* height: 100vh; 
-    background-image: url(../images/contact-bg-iphone.png);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-} */
-
 .contact-dog {
     display: flex;
-    width: 40%;
-    height: 40%;
+    width: 80%;
+    height: 80%;
     justify-content: center;
 }
 
 .contact-dog img {
-    width: 80%;
-    height: 80%;
+    width: 70%;
+    height: 70%;
     align-items: center;
 }
 
 .contact-wrap {
     display: flex;
+    flex-direction: column;
+    gap: 2rem;
     justify-content: space-around;
     align-items: center;
     /* background-color: #f2f2f2; */
@@ -449,7 +445,7 @@ body {
 }
 
 .contact-top {
-    width: 50rem;
+    /* width: 50rem;*/
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
     background-color: white;
     outline: 0.5rem solid black;
@@ -522,18 +518,12 @@ textarea:focus {
 }
 
 .contact-details {
-        
     background-color: black;
-
-}
-
-.cell {
-    background-color: #83ebdd;
 }
 
 .grid3 {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1fr, 1fr);
     grid-gap: 1rem;
 }
 
@@ -542,7 +532,7 @@ textarea:focus {
     color: white;
     text-align: center;
     margin: auto;
-  }
+}
 
 .cell-1 h2 {
     font-size: 2rem;
@@ -559,7 +549,7 @@ textarea:focus {
     margin-bottom: 2rem;
 }
 
-.cell-1 ul li h3{
+.cell-1 ul li h3 {
     font-size: 1.4rem
 }
 
@@ -571,6 +561,80 @@ textarea:focus {
 .cell-2 {
     object-fit: cover;
 }
+
+/* Media Queries New */
+
+
+
+@media only screen and (min-width:500px) {
+    .image-grid {
+        --num-cols: 2;
+        --row-height: 300px;
+    }
+}
+
+@media only screen and (min-width:768px) {
+    #navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    #toggle {
+        display: none;
+    }
+
+    .nav-menu {
+        flex-direction: row;
+    }
+
+    .nav-menu li {
+        display: block;
+        margin-right: 1rem;
+    }
+    
+    .image-grid {
+        --num-cols: 3;
+        --row-height: 300px;
+    }
+
+    .contact-dog img {
+        width: 50%;
+        height: 50%;
+        align-items: center;
+    }
+}
+
+@media only screen and (min-width:1024px) {
+    .image-grid {
+        --num-cols: 4;
+        --row-height: 300px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .image-grid {
+        --num-cols: 5;
+        --row-height: 300px;
+    }
+
+    .contact-wrap {
+        flex-direction: row; 
+        padding: 2rem 2rem 4rem;
+    }
+
+    .grid3 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    
+}
+
+
+
+
+
+/* Media Queries old
 
  @media only screen and (min-width:0px) {
     .image-grid {
@@ -586,9 +650,6 @@ textarea:focus {
         text-align: center;
     }
 
-   /* .about-craig {
-        overflow: hidden;
-    } */
 
     .about-second-wrap {
         display: flex;
@@ -619,21 +680,11 @@ textarea:focus {
     }
 
 
-
-    /*  .bg-contact {
-        background-image: url(../images/background-image-iphone-2.jpg);
-    } */
-
     .video-grid {
         --num-cols: 1;
         --row-height: 200px;
     }
 
-
-    /* .grid .craig {
-        grid-template-columns: 1fr;
-        grid-template-rows: 1fr;
-    } */
 
 } 
 
@@ -728,3 +779,6 @@ textarea:focus {
         --row-height: 400px;
     }
 }
+
+
+*/
