@@ -419,6 +419,12 @@ body {
     object-fit: cover;
 }
 
+.container-steps {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
 .container-learn {
     display: grid;
     grid-template-rows: 1fr 1fr 1fr; 
@@ -653,6 +659,7 @@ textarea:focus {
     .container-learn {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr; 
+        grid-template-rows: none;
         gap: 2rem;
         padding: 2rem;
         margin-left: auto;
