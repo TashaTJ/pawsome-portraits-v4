@@ -533,7 +533,6 @@ textarea:focus {
 
 .grid3 {
     display: grid;
-    height: 20rem;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 1rem;
 }
