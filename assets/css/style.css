@@ -55,13 +55,14 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 1rem;
 }
 
 .nav-menu li {
     list-style: none;
     display: none;
     /* Used to hide menu when checkbox is not checked */
-    padding: 5px 0;
+    padding: 0.5rem 0;
     font-size: 1.2rem;
 }
 
@@ -313,7 +314,7 @@ body {
     justify-content: space-around;
     flex-direction: row-reverse;
     align-items: center;
-    padding: 1rem 1rem 1rem;
+    padding: 1rem 1rem 2rem;
 
 }
 
@@ -322,6 +323,7 @@ body {
     /* width: 40%;
     height: 40%; */
     justify-content: center;
+    overflow: hidden;
 }
 
 .about-text {
@@ -532,6 +534,10 @@ textarea:focus {
         align-items: center;
         text-align: center;
     }
+
+   /* .about-craig {
+        overflow: hidden;
+    } */
 
     .about-second-wrap {
         display: flex;
