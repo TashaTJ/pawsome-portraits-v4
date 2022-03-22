@@ -422,23 +422,28 @@ body {
 .container-learn {
     display: grid;
     grid-template-rows: 1fr 1fr 1fr; 
-    justify-content: center;
+    justify-content: center; 
     align-items: center; 
     gap: 2rem;
     text-align: left;
-    padding: 2rem
+    padding: 2rem;
+    
 }
 
 .vid-1 {
-    background-color:red ;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 .vid-2 {
-    background-color:blue ;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .vid-3 {
-    background-color:green ;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .dog-names {
@@ -448,12 +453,9 @@ body {
 
 .dog-vid-text {
     text-align: left;
+    font-family: Roboto, sans-serif;
+    font-size: 1rem;
 }
-
-
-
-
-
 
 
 /* Contact Page */
@@ -651,14 +653,28 @@ textarea:focus {
     .container-learn {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr; 
-        justify-content: center;
-        align-items: center; 
         gap: 2rem;
-        /* text-align: left; */
-        padding: 2rem
+        padding: 2rem;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+           
     }
 
-    .
+    .dog-vid-text {
+        text-align: center;
+    }
+
+
+
+    
+
+
+
+    
+
+
+    
 }
 
 @media only screen and (min-width: 1200px) {
