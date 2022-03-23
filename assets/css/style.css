@@ -6,14 +6,6 @@
     box-sizing: border-box;
 }
 
-: root {
-    --black: #000000;
-    --offwhite: #f1f0f3;
-    --white: #ffff;
-    --gold: #786C44;
-    --blue: #83ebdd;
-}
-
 /* Reset font-size for easier rem unit calculation */
 
 body {
@@ -367,8 +359,6 @@ h3 {
 .craig {
     height: 100%;
     position: relative;
-    font-weight: 50px;
-
 }
 
 .craig h1 {
