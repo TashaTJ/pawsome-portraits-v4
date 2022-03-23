@@ -463,6 +463,7 @@ body {
 .wrapper-steps {
 	width: 40%;
 	margin: 40px auto;
+    overflow: hidden;
 }
 div.gallery-steps {
 	margin-top: 2rem;
@@ -711,16 +712,14 @@ textarea:focus {
 
 /* Media Queries New */
 
-@media only screen and (min-width:0px) {
+/* @media only screen and (min-width:0px) {
     .wrapper-steps {
 		width: 200px;
         height: 500px;
 	}
 
-    div.gallery-steps ul {
-        margin-left: 20px;
-    }
-}
+    
+} */
 
 
 @media only screen and (min-width:500px) {
