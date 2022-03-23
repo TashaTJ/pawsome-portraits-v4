@@ -1,18 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Oswald:wght@200;300;400&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300&display=swap');
 
-
-/*html {
-    font-size: 16px;
-} */
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
 
-: root {
+:root {
     --black: #000000;
     --offwhite: #f1f0f3;
     --white: #ffff;
@@ -456,11 +450,18 @@ h3 {
 
 }
 
-.learn-text {
-   /* font-family: Bangers sans-serif;
-    font-weight: 100; */
-    background-color: white;
+.steps-list a {
+        text-decoration: none;
+        font-family: bangers;
+        color: #786C44;
+    }
+
+.learn-text  a {
+    text-decoration: none;
+    font-family: bangers;
+    color: #786C44;
 }
+ 
 
 .learn-text h1 {
     font-family: Bangers;
