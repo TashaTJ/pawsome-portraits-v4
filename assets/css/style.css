@@ -223,6 +223,7 @@ body {
 
 /* gallery page */
 
+
 .image-grid {
     --gap: 16px;
     --num-cols: 2;
@@ -292,14 +293,6 @@ body {
     background-color: white;
 }
 
-/* .background-about {
-    /*height: 100vh; 
-    background-image: url(../images/background-about-image-6.png);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-} */
-
 .about-wrap {
     /* same as contact-wrap */
     display: flex;
@@ -331,6 +324,7 @@ body {
 .about-text {
     width: 30rem;
     background-color: white;
+    text-align: center;
 }
 
 .about-text h1 {
@@ -424,7 +418,7 @@ body {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    padding: 0rem 4rem 6rem 4rem;
+    padding: 4rem 4rem 6rem 4rem;
 }
 
 .learn-wrap ul {
@@ -822,7 +816,7 @@ textarea:focus {
 
     .contact-wrap {
         flex-direction: row; 
-        padding: 2rem 2rem 4rem;
+        padding: 4rem 4rem 6rem 4rem;
     }
 
     .grid3 {
