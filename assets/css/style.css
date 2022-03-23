@@ -734,6 +734,8 @@ textarea:focus {
 
 /* Media Queries*/
 
+/* For smaller screen sizes, from 500px wide and down */
+
 @media only screen and (min-width:500px) {
     .image-grid {
         --num-cols: 2;
@@ -754,7 +756,6 @@ textarea:focus {
 
 
 }
-
 
 @media only screen and (min-width:768px) {
     #navbar {
@@ -791,6 +792,8 @@ textarea:focus {
     }
 }
 
+/* For large screens sizes from 1024px upwards */
+
 @media only screen and (min-width:1024px) {
     .image-grid {
         --num-cols: 4;
@@ -813,6 +816,8 @@ textarea:focus {
         text-align: center;
     }    
 }
+
+/* For large screens sizes from 1200px upwards */  
 
 @media only screen and (min-width: 1200px) {
     .image-grid {
