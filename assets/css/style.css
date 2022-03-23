@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Oswald:wght@200;300;400&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300&display=swap');
 
 
 /*html {
@@ -27,6 +27,20 @@ body {
     background-color: var(--offwhite);
     font-family: Bangers, sans-serif;
 }
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+}
+
+h3 {
+    font-size: 1rem;
+}
+
+
 
 /* img {
     width: 100%;
@@ -79,7 +93,7 @@ body {
 #logo {
     color: var(--black);
     text-decoration: none;
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 .nav-link {
@@ -108,9 +122,6 @@ body {
 
 /* socials footer */
 
-.footer-landing {
-    background-color: red;
-}
 
 .footer a:hover {
     color: #786C44;
@@ -257,7 +268,6 @@ body {
     padding: 2rem 2rem 20rem;
     min-height: calc(100vh - 16.4rem);
     box-sizing: border-box;
-    /* background-color: rgba(131,235,221,0.2); */
 }
 
 .about p {
@@ -286,7 +296,6 @@ body {
     text-decoration: none;
     color: #000000;
 }
-
 
 
 .header-about {
@@ -336,6 +345,7 @@ body {
 .about-text p {
     font-size: 1.25rem;
     font-family: Roboto, sans-serif;
+    font-weight: 100;
     text-align: center;
 }
 
@@ -371,7 +381,8 @@ body {
 
 .craig p {
     margin: 2rem;
-    font-family: roboto;
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
     font-size: 1rem;
 }
 
@@ -423,7 +434,6 @@ body {
 
 .learn-wrap ul {
     font-size: 1.2rem;
-    font-family: Roboto;
     font-weight: 300;
     list-style-type: none;     
 }
@@ -436,11 +446,19 @@ body {
     text-align: center;
 }
 
+.steps-list li {
+    padding: 0.5rem ;
+
+}
+
 .learn-text {
+   /* font-family: Bangers sans-serif;
+    font-weight: 100; */
     background-color: white;
 }
 
 .learn-text h1 {
+    font-family: Bangers;
     font-size: 2rem;
     margin-bottom: 2rem;
     text-align: center;
@@ -449,8 +467,10 @@ body {
 .learn-text p {
     font-size: 1.25rem;
     font-family: Roboto, sans-serif;
+    font-weight: 100;
     text-align: center;
 }
+
 
 /* code inspired by web post  */
 
@@ -617,6 +637,7 @@ div.gallery-steps ul li img:hover {
 
 .contact-form p {
     font-family: Roboto, sans-serif;
+    font-weight: 100;
     font-size: 1.2rem;
     text-align: center;
     margin: 0;
@@ -686,7 +707,6 @@ textarea:focus {
 }
 
 .cell-1 h2 {
-    font-size: 2rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
@@ -696,12 +716,8 @@ textarea:focus {
     list-style-type: none;
     font-family: Roboto, sans-serif;
     font-size: 1.2rem;
-    font-weight: 300;
+    font-weight: 100;
     margin-bottom: 2rem;
-}
-
-.cell-1 ul li h3 {
-    font-size: 1.4rem
 }
 
 #email-icon {
@@ -713,17 +729,7 @@ textarea:focus {
     object-fit: cover;
 }
 
-/* Media Queries New */
-
-/* @media only screen and (min-width:0px) {
-    .wrapper-steps {
-		width: 200px;
-        height: 500px;
-	}
-
-    
-} */
-
+/* Media Queries*/
 
 @media only screen and (min-width:500px) {
     .image-grid {
@@ -746,12 +752,6 @@ textarea:focus {
 
 }
 
-/* Responsive hack 
-@media only screen and (min-width: 499px) /*and (max-width: 1212px){
-	.wrapper-steps {
-		width: 500px;
-	} 
-} */
 
 @media only screen and (min-width:768px) {
     #navbar {
