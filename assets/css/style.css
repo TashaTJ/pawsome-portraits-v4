@@ -232,10 +232,7 @@ h3 {
 
 }
 
-
-
 /* gallery page */
-
 
 .image-grid {
     --gap: 16px;
@@ -349,6 +346,12 @@ h3 {
     font-family: Roboto, sans-serif;
     font-weight: 100;
     text-align: center;
+}
+
+.about-text a {
+    text-decoration: none;
+    font-family: bangers;
+    color: #786C44;
 }
 
 /* .contact-dog {
@@ -581,7 +584,7 @@ div.gallery-steps ul li img:hover {
 }
 
 .dog-names {
-    padding: ;
+    /* padding: ; */
     margin-top: 0.5rem;
 }
 
