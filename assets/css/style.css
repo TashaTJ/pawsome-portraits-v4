@@ -41,13 +41,11 @@ h3 {
 }
 
 .active {
-    border-bottom: 2px solid #786C44;
     color: #786C44;
 }
 
 #active {
     color: #786C44;
-
 }
 
 #navbar {
