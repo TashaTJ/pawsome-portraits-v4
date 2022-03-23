@@ -424,7 +424,7 @@ body {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    padding: 2rem 2rem 4rem;
+    padding: 0rem 4rem 6rem 4rem;
 }
 
 .learn-wrap ul {
@@ -473,6 +473,7 @@ div.gallery-steps ul {
 	list-style-type: decimal;
     font-size: 1rem;
 	margin-left: 0px;
+    padding: 1rem;
 }
 
 /* steps animation */
@@ -521,6 +522,14 @@ div.gallery-steps ul li img:hover {
 
 /* end of web post code idea */
 
+.watch-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 4rem;
+}
+
 
 .container-steps {
     display: grid;
@@ -535,7 +544,7 @@ div.gallery-steps ul li img:hover {
     align-items: center; 
     gap: 2rem;
     text-align: left;
-    padding: 2rem;
+    padding: 2rem 2rem 6rem 2rem;
     
 }
 
@@ -735,6 +744,7 @@ textarea:focus {
 
     div.gallery-steps ul {
         margin-left: 20px;
+        padding: 0%;
     }
 
 
@@ -792,7 +802,7 @@ textarea:focus {
         grid-template-columns: 1fr 1fr 1fr; 
         grid-template-rows: none;
         gap: 2rem;
-        padding: 2rem;
+        padding: 2rem 2rem 6rem 2rem;
         margin-left: auto;
         margin-right: auto;
         text-align: center;
