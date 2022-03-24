@@ -300,7 +300,8 @@ h3 {
 }
 
 iframe{
-    border-width: 0px;
+    border-width: 2rem;
+    border-color: #dbcd9c;
 }
 
 /* Learn Page */
