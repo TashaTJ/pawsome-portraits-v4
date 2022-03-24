@@ -20,6 +20,24 @@ The Pawsome Pawtriats site has been tested in a number of ways.
 
 ### W3C HTML Validator
 
+![W3C Validator test result](assets/readme-images/W3C/learn-warning.png)
+
+![W3C Validator test result](assets/readme-images/W3C/WC3-learn.png)
+
+![W3C Validator test result](assets/readme-images/W3C/W3C-index.png)
+
+![W3C Validator test result](assets/readme-images/W3C/WC3-gallery.png)
+
+![W3C Validator test result](assets/readme-images/W3C/W3C-about.png)
+
+![W3C Validator test result](assets/readme-images/W3C/WC3-learn.png)
+
+![W3C Validator test result](assets/readme-images/W3C/W3C-contact.png)
+
+
+
+
+
 ### W3C CSS Validator 
 
 ## Lighthouse 
