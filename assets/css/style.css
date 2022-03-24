@@ -299,7 +299,7 @@ h3 {
     transition: 500ms ease all;
 }
 
-iframe{
+iframe {
     border-width: 2rem;
     border-color: #dbcd9c;
 }
@@ -317,7 +317,7 @@ iframe{
 .learn-wrap ul {
     font-size: 1.2rem;
     font-weight: 300;
-    list-style-type: none;     
+    list-style-type: none;
 }
 
 .steps-list {
@@ -329,22 +329,22 @@ iframe{
 }
 
 .steps-list li {
-    padding: 0.5rem ;
+    padding: 0.5rem;
 
 }
 
 .steps-list a {
-        text-decoration: none;
-        font-family: bangers;
-        color: #786C44;
-    }
-
-.learn-text  a {
     text-decoration: none;
     font-family: bangers;
     color: #786C44;
 }
- 
+
+.learn-text a {
+    text-decoration: none;
+    font-family: bangers;
+    color: #786C44;
+}
+
 
 .learn-text h1 {
     font-family: Bangers;
@@ -363,65 +363,67 @@ iframe{
 /* Code inspired by web post https://codepen.io/rrenula/pen/nJmQed */
 
 .wrapper-steps {
-	width: 40%;
-	margin: 40px auto;
+    width: 40%;
+    margin: 40px auto;
     overflow: hidden;
 }
 
 div.gallery-steps {
-	margin-top: 2rem;
+    margin-top: 2rem;
 }
 
 div.gallery-steps ul {
-	list-style-type: decimal;
+    list-style-type: decimal;
     font-size: 1rem;
-	margin-left: 0px;
+    margin-left: 0px;
     padding: 1rem;
 }
 
 /* steps animation */
 
-div.gallery-steps ul li, div.gallery-steps li img {
-	-webkit-transition: all 0.1s ease-in-out;
-  	-moz-transition: all 0.1s ease-in-out;
-  	-o-transition: all 0.1s ease-in-out;
-  	transition: all 0.1s ease-in-out;
+div.gallery-steps ul li,
+div.gallery-steps li img {
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
 }
 
 div.gallery-steps ul li {
-	position: relative;
-	float: left;
-	width: 130px;
-	height: 130px;
-	margin: 10px;
-	padding: 5px;
-	z-index: 0;
+    position: relative;
+    float: left;
+    width: 130px;
+    height: 130px;
+    margin: 10px;
+    padding: 5px;
+    z-index: 0;
 }
 
 /* Makes sure the z-index is higher on hover */
 /* Ensures the hover image overlaps the others */
 div.gallery-steps ul li:hover {
-	z-index: 5;
+    z-index: 5;
 }
+
 /* Image is positioned nicely under li */
 div.gallery-steps ul li img {
-	position: absolute;
-	left: 0;
-	top: 0;
-	border: 1px solid black;
-	padding: 5px;
-	width: 130px;
-	height: 130px;
-	background:white;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: 1px solid black;
+    padding: 5px;
+    width: 130px;
+    height: 130px;
+    background: white;
 }
 
 div.gallery-steps ul li img:hover {
-	width: 200px;
-	height: 200px;
-	margin-top: -130px;
-	margin-left: -130px;
-	top: 65%;
-	left: 65%;
+    width: 200px;
+    height: 200px;
+    margin-top: -130px;
+    margin-left: -130px;
+    top: 65%;
+    left: 65%;
 }
 
 /* End of web post code idea */
@@ -442,19 +444,19 @@ div.gallery-steps ul li img:hover {
 
 .container-learn {
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr; 
-    justify-content: center; 
-    align-items: center; 
+    grid-template-rows: 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;
     gap: 2rem;
     text-align: left;
     padding: 2rem 2rem 6rem 2rem;
-    
+
 }
 
 .vid-1 {
     margin-left: auto;
     margin-right: auto;
-    
+
 }
 
 .vid-2 {
@@ -604,13 +606,22 @@ textarea:focus {
     margin-bottom: 2rem;
 }
 
+.cell-2 {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.map {
+    flex-grow: 1;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
 #email-icon {
     font-size: 4rem;
     color: #786C44;
-}
-
-.cell-2 {
-    object-fit: cover;
 }
 
 /* Media Queries*/
@@ -624,9 +635,9 @@ textarea:focus {
     }
 
     .wrapper-steps {
-		width: 500px;
+        width: 500px;
         height: 500px;
-	}
+    }
 
     div.gallery-steps ul {
         margin-left: 20px;
@@ -683,21 +694,21 @@ textarea:focus {
 
     .container-learn {
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr; 
+        grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: none;
         gap: 2rem;
         padding: 2rem 2rem 6rem 2rem;
         margin-left: auto;
         margin-right: auto;
-        text-align: center;      
+        text-align: center;
     }
 
     .dog-vid-text {
         text-align: center;
-    }    
+    }
 }
 
-/* For large screens sizes from 1200px upwards */  
+/* For large screens sizes from 1200px upwards */
 
 @media only screen and (min-width: 1200px) {
     .image-grid {
@@ -706,8 +717,8 @@ textarea:focus {
     }
 
     .contact-wrap {
-        flex-direction: row; 
+        flex-direction: row;
         padding: 4rem 4rem 6rem 4rem;
     }
-    
+
 }
