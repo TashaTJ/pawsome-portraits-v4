@@ -144,7 +144,7 @@ h3 {
     font-size: 1rem;
 }
 
-/* utilities*/
+/* utilities */
 
 .container {
     max-width: 1600px;
@@ -152,26 +152,6 @@ h3 {
     overflow: auto;
     padding: 0 4rem;
 }
-
-/* .card {
-    background-color: white;
-    color: black;
-    /* border-radius: 10px;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
-    padding: 40px;
-    margin: 20px;
-    outline: 2px solid black;
-}  */
-
-/* .contact-form-card {
-    background-color: white;
-    color: black;
-    /* border-radius: 10px;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
-    padding: 40px;
-    margin: 20px;
-
-} */
 
 .btn1 {
     display: inline-block;
@@ -196,13 +176,6 @@ h3 {
     background-color: #83ebdd;
     transform: scale(0.98);
 }
-
-/* .flex {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-} */
 
 .grid {
     display: grid;
@@ -237,8 +210,6 @@ h3 {
 
 
 /* About Page */
-
-/* from daves code */
 
 .about {
     display: flex;
@@ -278,12 +249,10 @@ h3 {
 }
 
 .about-wrap {
-    /* same as contact-wrap */
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    /* background-color: #f2f2f2; */
     padding: 1rem 1rem 1rem;
 }
 
@@ -294,7 +263,6 @@ h3 {
     flex-direction: row-reverse;
     align-items: center;
     padding: 1rem 1rem 2rem;
-
 }
 
 .about-craig {
