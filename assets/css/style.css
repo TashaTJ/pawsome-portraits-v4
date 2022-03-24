@@ -156,6 +156,7 @@ h3 {
 .btn1 {
     display: inline-block;
     font-family: Bangers;
+    font-size: 1.2rem;
     padding: 10px 30px;
     cursor: pointer;
     color: black;
@@ -243,10 +244,10 @@ h3 {
     overflow: hidden;
 }
 
-.craig-website {
+/* .craig-website {
     text-decoration: none;
     color: #000000;
-}
+} */
 
 .about-wrap {
     display: flex;
