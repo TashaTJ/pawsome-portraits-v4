@@ -335,61 +335,7 @@ h3 {
     transition: 500ms ease all;
 }
 
-/* Craig*/
-
-/* .craig {
-    height: 100%;
-    position: relative;
-} */
-
-/* .craig h1 {
-    font-size: 2rem;
-} */
-
-/*.craig p {
-    margin: 2rem;
-    font-family: Roboto, sans-serif;
-    font-weight: 100;
-    font-size: 1rem;
-}
-
-.craig .grid {
-    grid-template-columns: 55% 45%;
-    gap: 3rem;
-}
-
-.craig-image {
-    padding: 5px;
-    margin-top: 40px;
-
-}
-
-.wall-of-prints {
-    margin-bottom: 40px;
-} */
-
 /* Learn Page */
-
-/* .video-grid {
-    --gap: 16px;
-    --num-cols: 3;
-    --row-height: 300px;
-
-    box-sizing: border-box;
-    padding: var(--gap);
-
-    display: grid;
-    grid-template-columns: repeat(var(--num-cols), 1fr);
-    grid-auto-rows: var(--row-height);
-    gap: var(--gap);
-
-}
-
-.video-grid>iframe {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-} */
 
 .learn-wrap {
     display: flex;
@@ -445,7 +391,7 @@ h3 {
     text-align: center;
 }
 
-/* code inspired by web post  */
+/* Code inspired by web post https://codepen.io/rrenula/pen/nJmQed */
 
 .wrapper-steps {
 	width: 40%;
@@ -483,13 +429,12 @@ div.gallery-steps ul li {
 	z-index: 0;
 }
 
-/* Make sure z-index is higher on hover */
-/* Ensure that hover image overlapped the others */
+/* Makes sure the z-index is higher on hover */
+/* Ensures the hover image overlaps the others */
 div.gallery-steps ul li:hover {
 	z-index: 5;
 }
-/* Image is position nicely under li */
-
+/* Image is positioned nicely under li */
 div.gallery-steps ul li img {
 	position: absolute;
 	left: 0;
@@ -510,7 +455,7 @@ div.gallery-steps ul li img:hover {
 	left: 65%;
 }
 
-/* end of web post code idea */
+/* End of web post code idea */
 
 .watch-wrap {
     display: flex;
@@ -644,7 +589,6 @@ input {
     border: none;
     border-bottom: 2px solid #d1ccbd;
     transition: 500ms ease all;
-
 }
 
 input:focus {
@@ -702,7 +646,7 @@ textarea:focus {
 
 /* Media Queries*/
 
-/* For smaller screen sizes, from 500px wide and down */
+/* For smaller screen sizes, from 500px upwards */
 
 @media only screen and (min-width:500px) {
     .image-grid {
@@ -776,8 +720,7 @@ textarea:focus {
         padding: 2rem 2rem 6rem 2rem;
         margin-left: auto;
         margin-right: auto;
-        text-align: center;
-           
+        text-align: center;      
     }
 
     .dog-vid-text {
