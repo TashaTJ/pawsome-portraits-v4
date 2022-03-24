@@ -162,7 +162,8 @@ This page confirms details have been sent to Craig and provides a direct link ba
 ## Technologies Used
 - [HTML5](https://html.spec.whatwg.org/) - provides content and structure 
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides styling 
-- [Balsamiq](https://balsamiq.com/) - for wireframes 
+- [Balsamiq](https://balsamiq.com/) - for wireframes
+- [Procreate](https://procreate.art/) - for manipulating images
 - [coolors.co](https://coolors.co/d3ab9e-eac9c1-ebd8d0-fffbff-fefeff) - the color scheme was inspired by colours generated here 
 - [Font Awesome](https://fontawesome.com/) - multiple icons implemented throughout the site from font awesome version 5
 - [Google Fonts](https://fonts.google.com/) - Both fonts used in the website imported from here 

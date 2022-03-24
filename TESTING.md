@@ -2,8 +2,9 @@
 
 The Pawsome Pawtriats site has been tested in a number of ways.
 
-- [W3C HTML Validator](#w3c-html-validator) 
-- [W3C CSS Validator](#w3c-css-validator)
+- [Code Validation](#code-validation)
+    - [W3C HTML Validator](#w3c-html-validator) 
+    - [W3C CSS Validator](#w3c-css-validator)
 - [Lighthouse](#lighthouse)
 - [Responsiveness](#responsiveness)
 - [A11y Color Contrast Accessibility Checker](#a11y-color-contrast-accessibility-checker)
@@ -15,9 +16,11 @@ The Pawsome Pawtriats site has been tested in a number of ways.
     - [Unresolved](#unresolved)
 
 
-## W3C HTML Validator
+## Code Validation 
 
-## W3C CSS Validator 
+### W3C HTML Validator
+
+### W3C CSS Validator 
 
 ## Lighthouse 
 
