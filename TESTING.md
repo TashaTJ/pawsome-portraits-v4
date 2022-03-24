@@ -17,4 +17,23 @@ The Pawsome Pawtriats site has been tested in a number of ways.
 
 ## W3C HTML Validator
 
+## W3C CSS Validator 
+
+## Lighthouse 
+
+## Responsiveness 
+
+## A11y Color Contrast Accessibility Checker
+
+## Browser Compatibility
+
+## Peer Review
+
+## Testing User Stories 
+
+## Bugs
+
+### Resolved
+
+### Unresolved
 Back to the [README.md](./README.md#testing)
