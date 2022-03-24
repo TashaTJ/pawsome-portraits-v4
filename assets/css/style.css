@@ -299,6 +299,10 @@ h3 {
     transition: 500ms ease all;
 }
 
+iframe{
+    border-width: 0px;
+}
+
 /* Learn Page */
 
 .learn-wrap {
