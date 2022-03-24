@@ -17,4 +17,4 @@ The Pawsome Pawtriats site has been tested in a number of ways.
 
 ## W3C HTML Validator
 
-Back to the [README.md](./README2.md#trsting)
+Back to the [README.md](./README.md#testing)
