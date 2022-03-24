@@ -100,7 +100,7 @@ h3 {
 
 .hero {
     height: 100vh;
-    background-image: url(../images/Hero_Image_1.jpg);
+    background-image: url(../images/compressed-images/hero-image.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
