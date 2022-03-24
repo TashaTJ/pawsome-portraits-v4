@@ -172,7 +172,7 @@ This page confirms details have been sent to Craig and provides a direct link ba
 - [Multi Device Mock Up Generator](https://techsini.com/multi-mockup/) - to create an image displaying the home page on various devices 
 
 ## Testing
-Please refer here for more information on testing of Pawsome Portraits
+Please refer here for more information on testing of the Pawsome Portraits website. 
 
 <!-- add link and create new doc re testing -->
 
