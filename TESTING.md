@@ -35,10 +35,9 @@ The Pawsome Pawtriats site has been tested in a number of ways.
 ![W3C Validator test result](assets/readme-images/W3C/W3C-contact.png)
 
 
-
-
-
 ### W3C CSS Validator 
+
+
 
 ## Lighthouse 
 
