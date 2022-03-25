@@ -10,7 +10,6 @@ The Pawsome Pawtriats site has been tested in the following ways -
 - [A11y Color Contrast Accessibility Checker](#a11y-color-contrast-accessibility-checker)
 - [Browser Compatibility](#browser-compatibility)
 - [Peer Review](#peer-review)
-- [Testing User Stories](#testing-user-stories)
 - [Bugs](#bugs)
     - [Resolved](#resolved)
     - [Unresolved](#unresolved)
@@ -43,7 +42,7 @@ The Pawsome Pawtriats site has been tested in the following ways -
 
 ## Responsiveness 
 
-Responsive design tests were carried out manually using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and then toying with different devices including iphone13, 12, Ipad Pro and Galaxy Note 8.
+Responsive design tests were carried out manually using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and then toying with different devices including iphone13, 12, 11, Ipad Pro, Airbook, Macbook and Galaxy Note 8.
 
 On wide display types the contents of the site are restricted in width to 2000px. This helps the UX by not spreading the content too wide on the extra wide screens.
 
@@ -55,13 +54,15 @@ The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox
 
 ## Peer Review
 
-Prior to launch, the site was submitted for Peer Review by fellow students and alumni at [Code Institute](https://codeinstitute.net/)  and also some individuals putside the software development world. Feedback included issues with responsiveness and layout issues, both of which were solved with some minor css adjustments. 
-
-## Testing User Stories 
+Prior to launch, the site was submitted for Peer Review by fellow students and alumni at [Code Institute](https://codeinstitute.net/) and also some individuals putside the software development world. Feedback included issues with responsiveness and layout issues, both of which were solved with some minor css adjustments. 
 
 ## Bugs
 
 ### Resolved
+
+During validation the following bug occurred 3 times 
+
+
 
 ### Unresolved
 
