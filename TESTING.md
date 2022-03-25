@@ -60,11 +60,19 @@ Prior to launch, the site was submitted for Peer Review by fellow students and a
 
 ### Resolved
 
-During validation the following bug occurred 3 times 
+During validation the following bugs occurred.
 
+![W3C Resolved Bug](assets/readme-images/W3C/errors.png)
+![W3C Resolved Bug](assets/readme-images/W3C/learn-warning.png)
 
+Both were oversights in the building process and were easily rectified by changing the incriminating file names to spaceless ones and changing the section tag to a div. 
 
 ### Unresolved
+
+There is a bug in the learn page which is a sizing and overflow issues, which had I more time I would solve by more experimentation with the current code. 
+![Unresolved Bug](assets/readme-images/known-bug.png)
+
+
 
 
 Back to the [README.md](./README.md#testing)
