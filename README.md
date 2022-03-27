@@ -1,7 +1,7 @@
 # Portfolio Project 1 - HTML/CSS Essentials
 
 ## Live Site 
-<!-- add link here -->
+[Pawesome Portraits](https://tashatj.github.io/pawsome-portraits-v4/)
 
 ## Repository 
 <!--add link here -->

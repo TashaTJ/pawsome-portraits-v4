@@ -69,7 +69,7 @@ Both were oversights in the building process and were easily rectified by changi
 
 ### Unresolved
 
-There is a bug in the learn page which is a sizing and overflow issues, which had I more time I would solve by more experimentation with the current code. 
+There is a bug in the learn page which is a sizing and overflow issue, which had I more time I would solve by more experimentation with the current code. 
 ![Unresolved Bug](assets/readme-images/known-bug.png)
 
 
