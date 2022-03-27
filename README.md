@@ -1,10 +1,11 @@
 # Portfolio Project 1 - HTML/CSS Essentials
+![Multi Device Demo](assets/readme-images/pp1-multi-device.png)
 
 ## Live Site 
-[Pawesome Portraits](https://tashatj.github.io/pawsome-portraits-v4/)
+[Pawesome Pawtraits](https://tashatj.github.io/pawsome-portraits-v4/)
 
 ## Repository 
-<!--add link here -->
+[https://github.com/TashaTJ/pawsome-portraits-v4](https://github.com/TashaTJ/pawsome-portraits-v4)
 
 ***
 
