@@ -68,15 +68,20 @@ With such compelling visual content from the Artist, I want to create a minimal 
 ## Wireframes
 
 The Wireframes were produced using [Balsamiq](https://balsamiq.com/) 
-The final site varies from the wireframes due to developments the occured during the building process. 
+The final site varies from the wireframes due to developments that occured during the building process. 
 
 <!-- add wireframes here and potentially a link to a page of its own in the project -->
 
 Home:
+![Home Page Wireframe](assets/readme-images/pp1-wireframes-index.png)
 Dogs:
+![Gallery Page Wireframe](assets/readme-images/pp1-wireframes-gallery.png)
 about:
+![About Page Wireframe](assets/readme-images/pp1-wireframes-about.png)
 learn:
+![Learn Page Wireframe](assets/readme-images/pp1-wireframes-learn.png)
 Contact:
+![Contact Page Wireframe](assets/readme-images/pp1-wireframes-contact.png)
 
 <!-- see here (add link to external doc within repo, see daves readme for inspo) -->
 
