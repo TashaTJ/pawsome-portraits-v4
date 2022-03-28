@@ -146,13 +146,6 @@ h3 {
 
 /* utilities */
 
-/*.container {
-    max-width: 1600px;
-    margin: 0 auto;
-    overflow: auto;
-    padding: 0 4rem;
-}*/
-
 .btn1 {
     display: inline-block;
     font-family: Bangers;
@@ -353,14 +346,6 @@ iframe {
     font-family: Roboto, sans-serif;
     font-weight: 100;
     text-align: center;
-}
-
-.learn-wrap-2 {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    align-items: center;
-    padding: 0rem 4rem 6rem 4rem;
 }
 
 /* Code inspired by web post https://codepen.io/rrenula/pen/nJmQed */
@@ -671,7 +656,6 @@ textarea:focus {
         margin-left: 20px;
         padding: 0%;
     }
-
 }
 
 /* For medium screen sizes, from 768px upwards */
@@ -748,5 +732,4 @@ textarea:focus {
         flex-direction: row;
         padding: 4rem 4rem 6rem 4rem;
     }
-
 }

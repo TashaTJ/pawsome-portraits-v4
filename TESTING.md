@@ -1,6 +1,6 @@
 # Testing 
 
-The Pawsome Pawtriats site has been tested in the following ways -
+The Pawsome Pawtraits site has been tested in the following ways -
 
 - [Code Validation](#code-validation)
     - [W3C HTML Validator](#w3c-html-validator) 
@@ -56,7 +56,7 @@ All pages passed the CSS validator without error.
 I Used Lighthouse in Chrome Developer Tools to test each of the pages for:
 
 - Performance - How the page performs whilst loading.
-- Accessibility - How acccessible is the site for all users and how can it be improved.
+- Accessibility - How accessible is the site for all users and how can it be improved.
 - Best Practices - How does the site conform to industry best practices.
 - SEO - Search engine optimisation. Is the site optimised for search engine result rankings.
 
@@ -92,11 +92,11 @@ The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox
 
 - Navigate through the site smoothly
 
-    - The pages can be accessed in the same way on everypage, via a very simply navigational menu, which highlights what page is active by a gold colour change. 
+    - The pages can be accessed in the same way on every page, via a very simply navigational menu, which highlights what page is active by a gold colour change. 
 
 - See lots of examples of artworks
 
-    - There is an extensive second page gallery and then numberous artworks articulating the other pages that the user can browse at leisure. 
+    - There is an extensive second page gallery and then numerous artworks articulating the other pages that the user can browse at leisure. 
 
 - be able to contact Craig easily
 
@@ -109,7 +109,7 @@ The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox
 
 - Connect with Craig on social media 
 
-    - Social media links appear in the footer on everypage without exception. They color change on hover so the user knows where to go. 
+    - Social media links appear in the footer on every page without exception. They change colour on hover so the user knows where to go. 
 
 - Learn more about the developer who created the site
 
@@ -117,7 +117,7 @@ The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox
 
 ## Peer Review
 
-Prior to launch, the site was submitted for Peer Review by fellow students and alumni at [Code Institute](https://codeinstitute.net/) and also some individuals putside the software development world. Feedback included issues with responsiveness and layout issues, both of which were solved with some minor css adjustments. 
+Prior to launch, the site was submitted for Peer Review by fellow students and alumni at [Code Institute](https://codeinstitute.net/) and also some individuals outside the software development world. Feedback included issues with responsiveness and layout issues, both of which were solved with some minor css adjustments. 
 
 ## Bugs
 
@@ -134,8 +134,5 @@ Both were oversights in the building process and were easily rectified by changi
 
 There is a bug in the learn page which is a sizing and overflow issue, which had I more time I would solve by more experimentation with the current code. 
 ![Unresolved Bug](assets/readme-images/known-bug.png)
-
-
-
 
 Back to the [README.md](./README.md#testing)
