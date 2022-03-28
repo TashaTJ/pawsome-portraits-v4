@@ -355,6 +355,14 @@ iframe {
     text-align: center;
 }
 
+.learn-wrap-2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0rem 4rem 6rem 4rem;
+}
+
 /* Code inspired by web post https://codepen.io/rrenula/pen/nJmQed */
 
 .wrapper-steps {
