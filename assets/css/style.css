@@ -146,12 +146,12 @@ h3 {
 
 /* utilities */
 
-.container {
+/*.container {
     max-width: 1600px;
     margin: 0 auto;
     overflow: auto;
     padding: 0 4rem;
-}
+}*/
 
 .btn1 {
     display: inline-block;
@@ -165,7 +165,6 @@ h3 {
     transition: 500ms ease all;
     outline: 2px solid black;
     margin-top: 2rem;
-
 }
 
 .btn-outline {
@@ -638,7 +637,7 @@ textarea:focus {
     justify-content: space-around;
     flex-direction: row-reverse;
     align-items: center;
-    padding: 10rem 1rem 20rem;
+    padding: 2rem 1rem 20rem;
     
 }
 

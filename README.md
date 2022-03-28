@@ -62,8 +62,6 @@ Dog lovers, Art enthusiasts, collaborators & customers.
 
 ## UX: User Experience
 
-<!-- missing section -->
-
 ## Initial Concept
 With such compelling visual content from the Artist, I want to create a minimal and sleek monochrome theme to allow the work to shine and not have to compete with the website design. I have often refferred back to the [Apple website](https://www.apple.com/uk/) for inspiration. 
 
@@ -98,6 +96,7 @@ Contact Page:
 ### Tablet 
 
 ![Tablet Wireframes](assets/readme-images/tablet-wireframes.jpg)
+
 ### Desktop 
 
 ![Desktop Wireframes](assets/readme-images/desktop-wireframes.jpg)
@@ -165,7 +164,6 @@ Via pictures and text placed on a fully responsive grid, users can get to know t
 It contains a short blurb describing what the Pawtraits are and how the project began and links to Craig's other work, should interested parties want to investigate futher. 
 All links open in new tabs for a positive user experience. It also contains a photo of Craig and another photo of his work in it's real life environment. I have treated the photos so they contain a white frame and therfore the website background white acts as a real life gallery wall which the pictures appear to hang from. 
 
-
 ![About Page Image](assets/readme-images/about-image.png)
 
 #### Learn
@@ -174,7 +172,7 @@ This page contains
 
 ![9 Photo Grid](assets/readme-images/nine-step-grid.png)
 
-- 3 timlapses of craig’s artistic process during the creation of a portrait. They sit above their headings text explanations. These short and easy to play videos are embedded from youtube so the user can remain on the site while they watch for optimum UX. They do not autoplay play for better UX. They are for educational purposes, to deepen a user's understanding of the artworks if desired.  
+- 3 timelapses of craig’s artistic process during the creation of a pawtrait. They sit above their headings text explanations. These short and easy to play videos are embedded from youtube so the user can remain on the site while they watch for optimum UX. Autoplay play is also disabled for better UX. They are for educational purposes, to deepen a user's understanding of the artworks if desired.  
 
 ![Video Grid](assets/readme-images/video-grid.png)
 
@@ -186,7 +184,9 @@ The contact page contains a simple and fully responsive form, by which users can
 ![Contact Details Image](assets/readme-images/contact-details.png)
 
 #### Form Confirmation
-This page confirms details have been sent to Craig and provides a direct link back to the home page, as well as the header and footer. For this project it validates the form only. It also contains an address and map to Crig's studio. 
+This page confirms details have been sent to Craig and provides a direct link back to the home page, as well as the header and footer. For this project it validates the form only. It also contains an address and map to Crig's studio.
+
+
 
 ### Future Features
 
