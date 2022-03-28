@@ -144,14 +144,15 @@ Heading each page top, it’s fully responsive and toggles to a neat hambuger me
 ##### Footer 
 Sat at the bottom of all pages, is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. it also contains a link to the developers github portfolio, should the user be an employer wanting to experience more of their work.
 
-![Footer](assets/readme-images/footer.png)
+![Footer Image](assets/readme-images/footer.png)
 
 #### Dogs 
 
 ##### Gallery
-The portraits are displayed in one simple and symmetrical gallery, with only white as their backdrop fom maximum visual impact. They contain a simple sleek transition, for a positive emotional response from the user on interaction with the dogs. 
+The portraits are displayed in one simple and symmetrical gallery, with only white as their backdrop fom maximum visual impact.
 
-<!-- pic of gallery -->
+
+![Gallery Image](assets/readme-images/gallery.png)
 
 #### About
 via pictures and text placed on a fully responsive grid, users can get to know the man behind the artworks a little better. 
