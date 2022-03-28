@@ -46,6 +46,8 @@ Form Destination Page
 
 ### W3C CSS Validator 
 
+All pages passed the CSS validator without error. 
+
 ![W3C CSS Validator test result](assets/readme-images/W3C-css/W3C-css-congrats.png)
 
 ## Lighthouse 
@@ -57,7 +59,7 @@ I Used Lighthouse in Chrome Developer Tools to test each of the pages for:
 - Best Practices - How does the site conform to industry best practices.
 - SEO - Search engine optimisation. Is the site optimised for search engine result rankings.
 
-After some below 90 scores on initisl mobile tests, I compressed the site images and re-tested each page. On these secondary tests, no score came below 94.
+After some below 90 scores on initial mobile tests, I compressed the site images and re-tested each page. On these secondary tests, no score came below 94.
 
 - as an example, the results for the Pawsome Pawtraits Home Page for both Mobile & Desktop are below.
 
@@ -73,7 +75,9 @@ On wide display types the contents of the site are restricted in width to 2000px
 
 ## A11y Color Contrast Accessibility Checker
 
-Colour contrast tests came back 
+Colour contrast tests were carried out across the website and all came back without issue. 
+
+![Colour Contrast Checks](assets/readme-images/colour-contrast-example.png)
 
 ## Browser Compatibility
 

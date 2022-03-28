@@ -35,6 +35,9 @@
     - [To Fork the Repository](#to-fork-the-repository)
     - [To create a Local Clone](#to-create-a-local-clone)
 - [Credits](#credits)
+    - [Content](#content)
+    - [Media](#media) 
+    - [Code](#code)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -138,7 +141,7 @@ The content images are aligned in neat symmetrical grids for optimal viewing and
 
 The site contains common features such as a navigational bar and footer, familiar to all internet users. This creates a friendly and non intimidating environment in which the user can feel comfortable to explore the pages, make return visits, and enjoy a positive user experience.
 
-### Existing
+### Existing Features
 
 #### Home
 
@@ -219,6 +222,8 @@ Please refer here for more information on testing of the Pawsome Portraits websi
 The site was deployed to GitHub pages. 
 
 ### Deployment Istructions
+
+#### Deploy to GitHub Pages
 
 1. Navigate to the settings tab in the GitHub repository 
 2. Once in settings, navigate to the pages tab on the left of the page 
