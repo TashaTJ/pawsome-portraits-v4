@@ -73,6 +73,8 @@ The final site varies from the wireframes due to developments that occured durin
 
 <!-- add wireframes here and potentially a link to a page of its own in the project -->
 
+### Phone
+
 Home Page:
 
 ![Home Page Wireframe](assets/readme-images/pp1-wireframes-index.png)
@@ -94,7 +96,12 @@ Contact Page:
 ![Contact Page Wireframe](assets/readme-images/pp1-wireframes-contact.png)
 
 
-<!-- see here (add link to external doc within repo, see daves readme for inspo) -->
+### Tablet 
+
+![Tablet Wireframes](assets/readme-images/tablet-wireframes.jpg)
+### Desktop 
+
+![Desktop Wireframes](assets/readme-images/desktop-wireframes.jpg)
 
 ## Site Structure
 
