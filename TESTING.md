@@ -50,7 +50,20 @@ Form Destination Page
 
 ## Lighthouse 
 
+I Used Lighthouse in Chrome Developer Tools to test each of the pages for:
 
+- Performance - How the page performs whilst loading.
+- Accessibility - How acccessible is the site for all users and how can it be improved.
+- Best Practices - How does the site conform to industry best practices.
+- SEO - Search engine optimisation. Is the site optimised for search engine result rankings.
+
+After some below 90 scores on initisl mobile tests, I compressed the site images and re-tested each page. On these secondary tests, no score came below 94.
+
+- as an example, the results for the Pawsome Pawtraits Home Page for both Mobile & Desktop are below.
+
+![Lighthouse Testing Mobile](assets/readme-images/lighthouse-mobile.png)
+
+![Lighthouse testing Desktop](assets/readme-images/lighthouse-desktop.png)
 
 ## Responsiveness 
 
@@ -59,6 +72,8 @@ Responsive design tests were carried out manually using [Google Chrome DevTools]
 On wide display types the contents of the site are restricted in width to 2000px. This helps the UX by not spreading the content too wide on the extra wide screens.
 
 ## A11y Color Contrast Accessibility Checker
+
+Colour contrast tests came back 
 
 ## Browser Compatibility
 
