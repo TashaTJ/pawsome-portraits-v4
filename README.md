@@ -290,7 +290,7 @@ All photos and the rights to them are owned by the artist [Craig Antony Kelly](h
 
 ## Acknowledgements 
 This website was executed and completed as a portfolio 1 Project for the full stack diploma at [Code Institute](https://codeinstitute.net/). 
-I would like to firstly thank my mentor, Precious Ljege for his guidance, Robbie White for his patience and time, and Craig Antony Kelly for allowing me the pleasure of presenting his work. Also a big thanks goes to Kera Cudmore and Ken Sheridan, fellow students at Code Institute, for participating in the peer code review. 
+I would like to firstly thank my mentor, Precious Ljege for his guidance, Harry Dhillon for his patience and time, and Craig Antony Kelly for allowing me the pleasure of presenting his work. Also a big thanks goes to Kera Cudmore and Ken Sheridan, fellow students at Code Institute, for participating in the peer code review. 
 Pawsome Portraits is a real concept, but the website is purely for the sake of the developer's portfolio and not for public consumption. 
 
 Tasha Taylor Johnson, 2022.
