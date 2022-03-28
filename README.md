@@ -61,7 +61,7 @@ Dog lovers, Art enthusiasts, collaborators & customers.
 <!-- missing section -->
 
 ## Initial Concept
-With such compelling visual content from the Artist, I want to create a minimal and sleek monochrome theme to allow the work to shine and not have to compete with the website design. The text and image components of the website will be styled with black outlines, to mimic framed portraits. 
+With such compelling visual content from the Artist, I want to create a minimal and sleek monochrome theme to allow the work to shine and not have to compete with the website design. I have often refferred back to the [Apple website](https://www.apple.com/uk/) for inspiration. 
 
 <!--link to about page photo wall-->
 
@@ -73,29 +73,44 @@ The final site varies from the wireframes due to developments that occured durin
 <!-- add wireframes here and potentially a link to a page of its own in the project -->
 
 Home:
+
 ![Home Page Wireframe](assets/readme-images/pp1-wireframes-index.png)
+
 Dogs:
+
 ![Gallery Page Wireframe](assets/readme-images/pp1-wireframes-gallery.png)
+
 about:
+
 ![About Page Wireframe](assets/readme-images/pp1-wireframes-about.png)
+
 learn:
+
 ![Learn Page Wireframe](assets/readme-images/pp1-wireframes-learn.png)
+
 Contact:
+
 ![Contact Page Wireframe](assets/readme-images/pp1-wireframes-contact.png)
+
 
 <!-- see here (add link to external doc within repo, see daves readme for inspo) -->
 
 ## Site Structure
 
-Pawsome Portraits is a 5 page website. The home page is the default loading page. the other pages are accessible from the navigation menu. There’s also another link to the contact page in the about page, guiding the user to their next steps. 
-There is a visual que on each page guiding the user back to the top. 
+Pawsome Portraits is a 5 page website. The home page is the default loading page. the other pages are accessible from the navigation menu. There’s also another link to the contact page in the about page, guiding the user to their next steps for a great user experience.  
 
 ## Colour Scheme
 
 My colour scheme will take inspiration from the hero image including white, mellow gold and Black. These colours will form a strong monochrome base point for the website, allowing the vibrant colours of the artwork to ‘pop’.
-I used [coolors.co](https://coolors.co/d3ab9e-eac9c1-ebd8d0-fffbff-fefeff) to generate some colour codes as inspiration for the site. 
+I used [coolors.co](https://coolors.co/d3ab9e-eac9c1-ebd8d0-fffbff-fefeff) to generate some colour codes as inspiration for the site. After some experimentation I settled on some different shades of the original selection to ensure contrast was optimised for a good UX.
 
-<!-- pic of colour scheme -->
+Original Colours: 
+
+![Coolors Colour Palette](assets/readme-images/coolors-chart.png)
+
+Final Colour Selection:
+
+![Coolors Clours Palette 2](assets/readme-images/coolors-chart-experiments.png)
 
 ## Typography
 
