@@ -208,7 +208,6 @@ h3 {
     object-fit: cover;
 }
 
-
 /* About Page */
 
 .about {
@@ -300,8 +299,6 @@ h3 {
 
 iframe {
     border: none;
-    /*border-width: 2rem;
-    border-color: #dbcd9c; */
 }
 
 /* Learn Page */
@@ -330,7 +327,6 @@ iframe {
 
 .steps-list li {
     padding: 0.5rem;
-
 }
 
 .steps-list a {
@@ -344,7 +340,6 @@ iframe {
     font-family: bangers;
     color: #786C44;
 }
-
 
 .learn-text h1 {
     font-family: Bangers;
@@ -450,7 +445,6 @@ div.gallery-steps ul li img:hover {
     gap: 2rem;
     text-align: left;
     padding: 2rem 2rem 6rem 2rem;
-
 }
 
 .vid-1 {
@@ -637,8 +631,7 @@ textarea:focus {
     justify-content: space-around;
     flex-direction: row-reverse;
     align-items: center;
-    padding: 2rem 1rem 20rem;
-    
+    padding: 2rem 1rem 20rem;   
 }
 
 .destination-text-wrap {
@@ -648,8 +641,7 @@ textarea:focus {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    padding: 10rem 0rem 0rem 0rem;
-    
+    padding: 10rem 0rem 0rem 0rem;    
 }
 
 /* Media Queries*/
