@@ -156,18 +156,25 @@ The portraits are displayed in one simple and symmetrical gallery, with only whi
 
 #### About
 via pictures and text placed on a fully responsive grid, users can get to know the man behind the artworks a little better. 
-It contains a short blur describing what he does and why, links to his other work, should interested parties want to investigate futher, and a link to the contact form making it easy for the user to continue their journey through the site. It also contains a photo of him and 2 more photos of his work in their real life environments. 
+It contains a short blur describing what he does and why, links to his other work, should interested parties want to investigate futher, and a link to the contact form making it easy for the user to continue their journey through the site. It also contains a photo of him and another photo of his work in their real life environments. 
 
 
-<!-- pic of about page -->
+![About Page Image](assets/readme-images/about-image.png)
 
 #### Learn
-This page contains 3 timlapses of craig’s artistic process during the creation of a portrait. They sit above their headings text explanations. These short and easy to play videos are embedded from youtube so the user can remain on the site while they watch for optimum UX. They are for educational purposes, to deepen a users understanding of the artworks if desired.  
+This page contains
+- A 9 step responsive photo grid, demonstrating Craigs artistic process in 9 numbered steps. The nu bers correspond with the text steps in the section below. The photos can be zoomed on click for great UX.
 
-<!-- pic of learn -->
+![9 Photo Grid](assets/readme-images/nine-step-grid.png)
+
+- 3 timlapses of craig’s artistic process during the creation of a portrait. They sit above their headings text explanations. These short and easy to play videos are embedded from youtube so the user can remain on the site while they watch for optimum UX. They are for educational purposes, to deepen a users understanding of the artworks if desired.  
+
+![Video Grid](assets/readme-images/video-grid.png)
 
 #### Contact
 The contact page contains a simple and fully responsive form, by which users can contact Craig without having to leave the site. This page completes the user’s journey through the site and is designed to be calm, simple and reassuring, with 4 labelled inputs and a submit button styled in keeping with the rest of the site. There is a background image displaying a final piece of art which acts as a visual sign off. 
+
+![Contact Form Image](assets/readme-images/contact-form.png)
 
 #### Form Confirmation
 This page confirms details have been sent to Craig and provides a direct link back to the home page, as well as the header and footer. For this project it validates the form only. 
