@@ -9,6 +9,7 @@ The Pawsome Pawtriats site has been tested in the following ways -
 - [Responsiveness](#responsiveness)
 - [A11y Color Contrast Accessibility Checker](#a11y-color-contrast-accessibility-checker)
 - [Browser Compatibility](#browser-compatibility)
+- [Testing User Stories](#testing-user-stories)
 - [Peer Review](#peer-review)
 - [Bugs](#bugs)
     - [Resolved](#resolved)
@@ -82,6 +83,37 @@ Colour contrast tests were carried out across the website and all came back with
 ## Browser Compatibility
 
 The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox, with no visible issues for the user. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.
+
+## Testing User Stories 
+
+- Understand the purpose of the site on loading
+
+    - The play on words Logo, 'Pawsome Pawtraits' and large Hero image of a hanging dog portrait gives the user an immediate understanding of what the site's main subject is. 
+
+- Navigate through the site smoothly
+
+    - The pages can be accessed in the same way on everypage, via a very simply navigational menu, which highlights what page is active by a gold colour change. 
+
+- See lots of examples of artworks
+
+    - There is an extensive second page gallery and then numberous artworks articulating the other pages that the user can browse at leisure. 
+
+- be able to contact Craig easily
+
+    - Craig's contact details appear on a clearly defined 'Contact' page, both via a direct contact form, and then location details below. 
+    - Social media links are also apparent on each page as a secondary means of contact. 
+
+- Learn more about Craig's process and perhaps learn some skills myself
+
+    - The learn pages contains a section which breaks down Craig's process for the user, and 3 helpful videos to describe visually how to complete your own portrait.
+
+- Connect with Craig on social media 
+
+    - Social media links appear in the footer on everypage without exception. They color change on hover so the user knows where to go. 
+
+- Learn more about the developer who created the site
+
+    - The developer links also lie in the footer, after Craig's, should the user be curious to visit.
 
 ## Peer Review
 

@@ -14,6 +14,7 @@
 - [Brief](#brief)
 - [Target Audience](#target-audience)
 - [UX User Experience](#ux-user-experience)
+    - [User Stories](#user-stories)
     - [Initial Concept](#initial-concept)
     - [Wireframes](#wireframes)
     - [Site Structure](#site-structure)
@@ -61,6 +62,18 @@ Dog lovers, Art enthusiasts, collaborators & customers.
 
 
 ## UX: User Experience
+
+## User Stories 
+
+As a user I want to be able to:
+
+- Understand the purpose of the site on loading
+- Navigate through the site smoothly
+- See lots of examples of artworks
+- be able to contact Craig easily
+- Learn more about Craig's process and perhaps learn some skills myself
+- Connect with Craig on social media 
+- Learn more about the developer who created the site
 
 ## Initial Concept
 With such compelling visual content from the Artist, I want to create a minimal and sleek monochrome theme to allow the work to shine and not have to compete with the website design. I have often refferred back to the [Apple website](https://www.apple.com/uk/) for inspiration. 
@@ -141,7 +154,8 @@ The site contains common features such as a navigational bar and footer, familia
 #### Home
 
 ##### Navigational Bar 
-Heading each page top, it’s fully responsive and toggles to a neat hambuger menu. It contains links to all pages, reachable at any time within the user's journey through the site. The Logo contains the link to the home page. When a page is active it is indicated by a change in colour from black to gold. 
+
+Heading each page top, it’s fully responsive and toggles to a neat hambuger menu. It contains links to all pages, reachable at any time within the user's journey through the site. The Logo contains a link to the home page and when a page is active it is indicated by a change in colour from black to gold, both allowing enhanced UX. 
 
 ![Nav Bar](assets/readme-images/nav-bar.png)
 
@@ -155,18 +169,21 @@ Sat at the bottom of all pages, is the footer. It’s minimal in style and conta
 #### Dogs 
 
 ##### Gallery
+
 The portraits are displayed in one simple and symmetrical gallery, with only white as their backdrop fom maximum visual impact.
 
 ![Gallery Image](assets/readme-images/gallery.png)
 
 #### About
+
 Via pictures and text placed on a fully responsive grid, users can get to know the man behind the artworks a little better. 
-It contains a short blurb describing what the Pawtraits are and how the project began and links to Craig's other work, should interested parties want to investigate futher. 
+It contains a short blurb describing what the Pawtraits are and how the project began and links to Craig's other work, should interested parties want to investigate futher.
 All links open in new tabs for a positive user experience. It also contains a photo of Craig and another photo of his work in it's real life environment. I have treated the photos so they contain a white frame and therfore the website background white acts as a real life gallery wall which the pictures appear to hang from. 
 
 ![About Page Image](assets/readme-images/about-image.png)
 
 #### Learn
+
 This page contains
 - A 9 step responsive photo grid, demonstrating Craig's artistic process in 9 numbered steps. The numbers correspond with the text steps in the section below. The photos can be zoomed on click for great UX.
 
@@ -177,6 +194,7 @@ This page contains
 ![Video Grid](assets/readme-images/video-grid.png)
 
 #### Contact
+
 The contact page contains a simple and fully responsive form, by which users can contact Craig without having to leave the site. This page completes the user’s journey through the site and is designed to be calm, simple and reassuring, with 4 labelled inputs and a submit button styled in keeping with the rest of the site. The form is flanked by 2 pawtraits, acting as a visual sign off in keeping with the style of the site for great UX. The bottom of the page contains an address and map to Craig's studio should the user want to visit. 
 
 ![Contact Form Image](assets/readme-images/contact-form.png)
@@ -184,7 +202,10 @@ The contact page contains a simple and fully responsive form, by which users can
 ![Contact Details Image](assets/readme-images/contact-details.png)
 
 #### Form Confirmation
-This page confirms details have been sent to Craig and provides a direct link back to the home page, as well as the header and footer. For this project it validates the form only. It also contains an address and map to Crig's studio.
+
+This page confirms details have been sent to Craig and provides a direct link back to the home page, as well as the header and footer. For this project it validates the form only.
+
+![Form Destination](assets/readme-images/form-destination-image.png)
 
 
 
@@ -198,6 +219,7 @@ This page confirms details have been sent to Craig and provides a direct link ba
 ***
 
 ## Technologies Used
+
 - [HTML5](https://html.spec.whatwg.org/) - provides content and structure 
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides styling 
 - [Balsamiq](https://balsamiq.com/) - for wireframes
@@ -211,7 +233,8 @@ This page confirms details have been sent to Craig and provides a direct link ba
 - [Multi Device Mock Up Generator](https://techsini.com/multi-mockup/) - to create an image displaying the home page on various devices 
 
 ## Testing
-Please refer here for more information on testing of the Pawsome Portraits website. 
+
+Please refer [**_here_**](TESTING.md) for more information on testing of the Pawsome Portraits website. 
 
 <!-- add link and create new doc re testing -->
 
