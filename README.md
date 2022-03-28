@@ -122,7 +122,7 @@ Sans-serif is the nominated fallback font, due to it’s simplicity, therefore a
 ## Imagery
 
 The artwork is the main focus of the site and therefor features heavily within it. Many have been compressed in [compressor.io](https://compressor.io/) to enable faster loading times. 
-The background images form a wallpaper for the about and sign up pages, whereas the content images are aligned in neat grids for optimal viewing and user experience. 
+The content images are aligned in neat grids for optimal viewing and user experience. 
 
 ***
 
@@ -137,12 +137,14 @@ The site contains common features such as a navigational bar and footer, familia
 ##### Navigational Bar 
 Heading each page top, it’s fully responsive and toggles to a neat hambuger menu. It contains links to all pages, reachable at any time within the user's journey through the site. The Logo contains the link to the home page. 
 
-<!--picture of nav bar -->
+![Nav Bar](assets/readme-images/nav-bar.png)
+
+![Nav Bar Responsive](assets/readme-images/nav-bar-responsive.png)
 
 ##### Footer 
 Sat at the bottom of all pages, is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. it also contains a link to the developers github portfolio, should the user be an employer wanting to experience more of their work.
 
-<!-- pic of footer -->
+![Footer](assets/readme-images/footer.png)
 
 #### Dogs 
 
