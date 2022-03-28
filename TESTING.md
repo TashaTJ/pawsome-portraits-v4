@@ -19,19 +19,29 @@ The Pawsome Pawtriats site has been tested in the following ways -
 
 ### W3C HTML Validator
 
-![W3C Validator test result](assets/readme-images/W3C/WC3-no-errors.png)
+Home Page
 
-![W3C Validator test result](assets/readme-images/W3C/WC3-no-errors.png)
+![W3C Validator test result](assets/readme-images/W3C/no-errors-small.png)
 
-![W3C Validator test result](assets/readme-images/W3C/WC3-no-errors.png)
+Gallery Page
 
-![W3C Validator test result](assets/readme-images/W3C/WC3-no-errors.png)
+![W3C Validator test result](assets/readme-images/W3C/no-errors-small.png)
 
-![W3C Validator test result](assets/readme-images/W3C/WC3-no-errors.png)
+About Page
 
-![W3C Validator test result](assets/readme-images/W3C/WC3-no-errors.png)
+![W3C Validator test result](assets/readme-images/W3C/no-errors-small.png)
 
-![W3C Validator test result](assets/readme-images/W3C/WC3-no-errors.png)
+Learn Page
+
+![W3C Validator test result](assets/readme-images/W3C/no-errors-small.png)
+
+Contact Page
+
+![W3C Validator test result](assets/readme-images/W3C/no-errors-small.png)
+
+Form Destination Page
+
+![W3C Validator test result](assets/readme-images/W3C/no-errors-small.png)
 
 
 ### W3C CSS Validator 
@@ -39,6 +49,8 @@ The Pawsome Pawtriats site has been tested in the following ways -
 ![W3C CSS Validator test result](assets/readme-images/W3C-css/W3C-css-congrats.png)
 
 ## Lighthouse 
+
+
 
 ## Responsiveness 
 
