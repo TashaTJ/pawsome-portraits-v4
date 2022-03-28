@@ -22,7 +22,7 @@
     - [Typography](#typography)
     - [Imagery](#imagery)
 - [Features](#features)
-    - [Exisiting](#existing)
+    - [Existing](#existing)
         -[Home](#home)
         -[Dogs](#dogs)
         -[About](#about)
@@ -76,12 +76,12 @@ As a user I want to be able to:
 - Learn more about the developer who created the site
 
 ## Initial Concept
-With such compelling visual content from the Artist, I want to create a minimal and sleek monochrome theme to allow the work to shine and not have to compete with the website design. I have often refferred back to the [Apple website](https://www.apple.com/uk/) for inspiration. 
+With such compelling visual content from the Artist, I want to create a minimal and sleek monochrome theme to allow the work to shine and not have to compete with the website design. I have often referred back to the [Apple website](https://www.apple.com/uk/) for inspiration. 
 
 ## Wireframes
 
 The Wireframes were produced using [Balsamiq](https://balsamiq.com/). 
-The final site varies from the wireframes due to developments that occured during the building process. 
+The final site varies from the wireframes due to developments that occurred during the building process. 
 
 ### Phone
 
@@ -134,7 +134,7 @@ Final Colour Selection:
 ## Typography
 
 The two fonts used were imported into the css from [google fonts](https://fonts.google.com/).
-Bangers, for headings and titles, was chosen for it’s playful comicbook nature, which compliments the cheeky character of the dogs brought about in the portriats themselves. 
+Bangers, for headings and titles, was chosen for it’s playful comic book nature, which compliments the cheeky character of the dogs brought about in the portraits themselves. 
 Roboto, with it’s friendly, open curves continues this positive and welcoming theme into the paragraph text. 
 Sans-serif is the nominated fallback font, due to it’s simplicity, therefore allowing it to integrate well into the site should the other fonts not load. 
 
@@ -155,14 +155,14 @@ The site contains common features such as a navigational bar and footer, familia
 
 ##### Navigational Bar 
 
-Heading each page top, it’s fully responsive and toggles to a neat hambuger menu. It contains links to all pages, reachable at any time within the user's journey through the site. The Logo contains a link to the home page and when a page is active it is indicated by a change in colour from black to gold, both allowing enhanced UX. 
+Heading each page top, it’s fully responsive and toggles to a neat hamburger menu. It contains links to all pages, reachable at any time within the user's journey through the site. The Logo contains a link to the home page and when a page is active it is indicated by a change in colour from black to gold, both allowing enhanced UX. 
 
 ![Nav Bar](assets/readme-images/nav-bar.png)
 
 ![Nav Bar Responsive](assets/readme-images/nav-bar-responsive.png)
 
 ##### Footer 
-Sat at the bottom of all pages, is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. it also contains a link to the developers github portfolio, should the user be an employer wanting to experience more of their work.
+Sat at the bottom of all pages, is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. it also contains a link to the developer's GitHub portfolio, should the user be an employer wanting to experience more of their work.
 
 ![Footer Image](assets/readme-images/footer.png)
 
@@ -170,15 +170,15 @@ Sat at the bottom of all pages, is the footer. It’s minimal in style and conta
 
 ##### Gallery
 
-The portraits are displayed in one simple and symmetrical gallery, with only white as their backdrop fom maximum visual impact.
+The portraits are displayed in one simple and symmetrical gallery, with only white as their backdrop for maximum visual impact.
 
 ![Gallery Image](assets/readme-images/gallery.png)
 
 #### About
 
 Via pictures and text placed on a fully responsive grid, users can get to know the man behind the artworks a little better. 
-It contains a short blurb describing what the Pawtraits are and how the project began and links to Craig's other work, should interested parties want to investigate futher.
-All links open in new tabs for a positive user experience. It also contains a photo of Craig and another photo of his work in it's real life environment. I have treated the photos so they contain a white frame and therfore the website background white acts as a real life gallery wall which the pictures appear to hang from. 
+It contains a short blurb describing what the Pawtraits are and how the project began and links to Craig's other work, should interested parties want to investigate further.
+All links open in new tabs for a positive user experience. It also contains a photo of Craig and another photo of his work in it's real life environment. I have treated the photos so they contain a white frame and therefore the website background white acts as a real life gallery wall which the pictures appear to hang from. 
 
 ![About Page Image](assets/readme-images/about-image.png)
 
@@ -189,7 +189,7 @@ This page contains
 
 ![9 Photo Grid](assets/readme-images/nine-step-grid.png)
 
-- 3 timelapses of craig’s artistic process during the creation of a pawtrait. They sit above their headings text explanations. These short and easy to play videos are embedded from youtube so the user can remain on the site while they watch for optimum UX. Autoplay play is also disabled for better UX. They are for educational purposes, to deepen a user's understanding of the artworks if desired.  
+- 3 time-lapses of Craig’s artistic process during the creation of a pawtrait. They sit above their headings text explanations. These short and easy to play videos are embedded from youtube so the user can remain on the site while they watch for optimum UX. Autoplay play is also disabled for better UX. They are for educational purposes, to deepen a user's understanding of the artworks if desired.  
 
 ![Video Grid](assets/readme-images/video-grid.png)
 
@@ -212,8 +212,8 @@ This page confirms details have been sent to Craig and provides a direct link ba
 ### Future Features
 
 - A feature within the main gallery allowing the users to view the photos individually when clicked on, with zoom capabilities. 
-- An online shop containing a pricelist, gallery and options to have your portrait printed on a t-shirt or mugs etc.
-- A multi media blog containing images, text entries and video so that craig can communicate his process, musings and inspiration in real time. This blog however must be easy for Craig to update without the developer. This will also require a small amendment to the navbar. 
+- An online shop containing a price list, gallery and options to have your portrait printed on a t-shirt or mugs etc.
+- A multi media blog containing images, text entries and video so that Craig can communicate his process, musings and inspiration in real time. This blog however must be easy for Craig to update without the developer. This will also require a small amendment to the navbar. 
 - I would personally like to experiment with building this site as a one page site. 
 
 ***
@@ -224,7 +224,7 @@ This page confirms details have been sent to Craig and provides a direct link ba
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides styling 
 - [Balsamiq](https://balsamiq.com/) - for wireframes
 - [Procreate](https://procreate.art/) - for manipulating images
-- [coolors.co](https://coolors.co/d3ab9e-eac9c1-ebd8d0-fffbff-fefeff) - the color scheme was inspired by colours generated here 
+- [coolors.co](https://coolors.co/d3ab9e-eac9c1-ebd8d0-fffbff-fefeff) - the colour scheme was inspired by colours generated here 
 - [Font Awesome](https://fontawesome.com/) - multiple icons implemented throughout the site from font awesome version 5
 - [Google Fonts](https://fonts.google.com/) - Both fonts used in the website imported from here 
 - [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - used extensively to experiment with grid, flexbox and general responsiveness. 
@@ -240,7 +240,7 @@ Please refer [**_here_**](TESTING.md) for more information on testing of the Paw
 
 The site was deployed to GitHub pages. 
 
-### Deployment Istructions
+### Deployment Instructions
 
 #### Deploy to GitHub Pages
 
@@ -255,7 +255,7 @@ The site was deployed to GitHub pages.
 
 To make a copy or ‘fork’ the repository - 
 
-1. Log into github and locate repository 
+1. Log into GitHub and locate repository 
 2. On the right hand side of the page select the ‘fork’ option to create and copy of the original
 
 ![Forking Process Image](assets/readme-images/fork-image.jpg)
@@ -263,10 +263,10 @@ To make a copy or ‘fork’ the repository -
 ### To create a Local Clone 
 
 1. under the repository name, click on the ‘code’ tab 
-2. in the clone box, HTTPS tab, click on the clipbord icon 
+2. in the clone box, HTTPS tab, click on the clipboard icon 
 3. in your IED open GitBash 
 4. Changed the current working directory to the location you want the cloned directory to be made
-5. Type ‘git clone’ and then paste the URL copied from github
+5. Type ‘git clone’ and then paste the URL copied from GitHub
 6. press enter and the local clone will be created 
 
 
@@ -276,23 +276,22 @@ To make a copy or ‘fork’ the repository -
 
 ### Content 
 - The hamburger menu was inspired by a youtube [tutorial](https://youtu.be/uugicVDUzMA)
-- The image gallery was inspried by this youtube [tutorial](https://www.youtube.com/watch?v=rnhoY5Cdmy0)
+- The image gallery was inspired by this youtube [tutorial](https://www.youtube.com/watch?v=rnhoY5Cdmy0)
 - The sticky footer was inspired by this [tutorial](
 https://webdesign.tutsplus.com/tutorials/how-to-build-a-responsive-multi-level-sticky-footer-with-flexbox--cms-33341?_ga=2.55476395.1460857226.1647778214-1349846198.1645535117) 
-- Many issues were at least partly resolved by searching [Stack Overflow](https://stackoverflow.com/) 
-- Robbie white, helped me work through some issues with grid and flex 
+- Many issues were at least partly resolved by searching [Stack Overflow](https://stackoverflow.com/)  
 - Ger, a CI mentor helped with my understanding of a responsive css nav bar. 
 - Inspiration for the README.md came from [Dave Horrick's repository](https://github.com/DaveyJH/ci-portfolio-one-v4/blob/main/README.md) 
 
 ***
 
 ### Media 
-All photos and the rights to them are owned by the aritst [Craig Antony Kelly](https://www.craiganthonykelly.co.uk/), who gave his full permission for use in this website.
+All photos and the rights to them are owned by the artist [Craig Antony Kelly](https://www.craiganthonykelly.co.uk/), who gave his full permission for use in this website.
 
 ## Acknowledgements 
 This website was executed and completed as a portfolio 1 Project for the full stack diploma at [Code Institute](https://codeinstitute.net/). 
-I would like to firstly thank my mentor, Precious Ljege for his guidance, Robbie White for his patience and time, and Craig Antony Kelly for allowing me the pleasure of presenting his work. 
-Pawsome Portraits is a real concept, but the website is purely for the sake of my portfolio and not for public consumption. 
+I would like to firstly thank my mentor, Precious Ljege for his guidance, Robbie White for his patience and time, and Craig Antony Kelly for allowing me the pleasure of presenting his work. Also a big thanks goes to Kera Cudmore and Ken Sheridan, fellow students at Code Institute, for participating in the peer code review. 
+Pawsome Portraits is a real concept, but the website is purely for the sake of the developer's portfolio and not for public consumption. 
 
 Tasha Taylor Johnson, 2022.
 
