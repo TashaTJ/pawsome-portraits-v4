@@ -628,6 +628,31 @@ textarea:focus {
     color: #786C44;
 }
 
+/* Form Destination */
+
+.destination-wrap {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    align-items: center;
+    padding: 10rem 1rem 20rem;
+    
+}
+
+.destination-text-wrap {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10rem 0rem 0rem 0rem;
+    
+}
+
 /* Media Queries*/
 
 /* For smaller screen sizes, from 500px upwards */
