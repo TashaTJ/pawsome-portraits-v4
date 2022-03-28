@@ -67,14 +67,10 @@ Dog lovers, Art enthusiasts, collaborators & customers.
 ## Initial Concept
 With such compelling visual content from the Artist, I want to create a minimal and sleek monochrome theme to allow the work to shine and not have to compete with the website design. I have often refferred back to the [Apple website](https://www.apple.com/uk/) for inspiration. 
 
-<!--link to about page photo wall-->
-
 ## Wireframes
 
-The Wireframes were produced using [Balsamiq](https://balsamiq.com/) 
+The Wireframes were produced using [Balsamiq](https://balsamiq.com/). 
 The final site varies from the wireframes due to developments that occured during the building process. 
-
-<!-- add wireframes here and potentially a link to a page of its own in the project -->
 
 ### Phone
 
