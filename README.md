@@ -42,12 +42,13 @@
 
 ## Key Project Goals
 This project has 2 main objectives: 
-To showcase a client’s graphic design portfolio in a compelling static front end application that’s simple to navigate and clear in it’s intention. 
-To demonstrate my competency as a developer using HMTL & CSS languages
+- To showcase a client’s graphic design portfolio in a compelling static front end application that’s simple to navigate and clear in it’s intention. 
+- To demonstrate my competency as a developer using HMTL & CSS languages
 
 ## Brief
 The website should promote Craig Kelly’s graphic design skills and the pet portraits he creates with them. Craig and I agreed the following features (in order of importance) would meet his needs: 
 - A gallery of works 
+- A brief explanation of the project and Craig's other work
 - Tutorials for art enthusiasts 
 - A contact form for enquiries and commissions 
 - Links to his social media
@@ -72,23 +73,23 @@ The final site varies from the wireframes due to developments that occured durin
 
 <!-- add wireframes here and potentially a link to a page of its own in the project -->
 
-Home:
+Home Page:
 
 ![Home Page Wireframe](assets/readme-images/pp1-wireframes-index.png)
 
-Dogs:
+Gallery Page:
 
 ![Gallery Page Wireframe](assets/readme-images/pp1-wireframes-gallery.png)
 
-about:
+About Page:
 
 ![About Page Wireframe](assets/readme-images/pp1-wireframes-about.png)
 
-learn:
+Learn Page:
 
 ![Learn Page Wireframe](assets/readme-images/pp1-wireframes-learn.png)
 
-Contact:
+Contact Page:
 
 ![Contact Page Wireframe](assets/readme-images/pp1-wireframes-contact.png)
 
@@ -101,7 +102,7 @@ Pawsome Portraits is a 5 page website. The home page is the default loading page
 
 ## Colour Scheme
 
-My colour scheme will take inspiration from the hero image including white, mellow gold and Black. These colours will form a strong monochrome base point for the website, allowing the vibrant colours of the artwork to ‘pop’.
+My colour scheme will take inspiration from the hero image including white, mellow gold, turquoise and black. These colours will form a strong monochrome base point for the website, allowing the vibrant colours of the artwork to ‘pop’.
 I used [coolors.co](https://coolors.co/d3ab9e-eac9c1-ebd8d0-fffbff-fefeff) to generate some colour codes as inspiration for the site. After some experimentation I settled on some different shades of the original selection to ensure contrast was optimised for a good UX.
 
 Original Colours: 
@@ -121,8 +122,8 @@ Sans-serif is the nominated fallback font, due to it’s simplicity, therefore a
 
 ## Imagery
 
-The artwork is the main focus of the site and therefor features heavily within it. Many have been compressed in [compressor.io](https://compressor.io/) to enable faster loading times. 
-The content images are aligned in neat grids for optimal viewing and user experience. 
+The artwork is the main focus of the site and therefore features heavily within it. Many have been compressed in [compressor.io](https://compressor.io/) to enable faster loading times. 
+The content images are aligned in neat symmetrical grids for optimal viewing and user experience. 
 
 ***
 
@@ -135,7 +136,7 @@ The site contains common features such as a navigational bar and footer, familia
 #### Home
 
 ##### Navigational Bar 
-Heading each page top, it’s fully responsive and toggles to a neat hambuger menu. It contains links to all pages, reachable at any time within the user's journey through the site. The Logo contains the link to the home page. 
+Heading each page top, it’s fully responsive and toggles to a neat hambuger menu. It contains links to all pages, reachable at any time within the user's journey through the site. The Logo contains the link to the home page. When a page is active it is indicated by a change in colour from black to gold. 
 
 ![Nav Bar](assets/readme-images/nav-bar.png)
 
@@ -151,12 +152,11 @@ Sat at the bottom of all pages, is the footer. It’s minimal in style and conta
 ##### Gallery
 The portraits are displayed in one simple and symmetrical gallery, with only white as their backdrop fom maximum visual impact.
 
-
 ![Gallery Image](assets/readme-images/gallery.png)
 
 #### About
 via pictures and text placed on a fully responsive grid, users can get to know the man behind the artworks a little better. 
-It contains a short blur describing what he does and why, links to his other work, should interested parties want to investigate futher, and a link to the contact form making it easy for the user to continue their journey through the site. It also contains a photo of him and another photo of his work in their real life environments. 
+It contains a short blurb describing what he does and why, links to his other work, should interested parties want to investigate futher, and a link to the contact form making it easy for the user to continue their journey through the site. It also contains a photo of him and another photo of his work in their real life environments. 
 
 
 ![About Page Image](assets/readme-images/about-image.png)
@@ -178,8 +178,6 @@ The contact page contains a simple and fully responsive form, by which users can
 
 #### Form Confirmation
 This page confirms details have been sent to Craig and provides a direct link back to the home page, as well as the header and footer. For this project it validates the form only. It also contains an address and map to Crig's studio. 
-
-![Contact Form Image](assets/readme-images/contact-form.png)
 
 ![Contact Details Image](assets/readme-images/contact-details.png)
 
