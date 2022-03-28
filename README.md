@@ -177,9 +177,11 @@ The contact page contains a simple and fully responsive form, by which users can
 ![Contact Form Image](assets/readme-images/contact-form.png)
 
 #### Form Confirmation
-This page confirms details have been sent to Craig and provides a direct link back to the home page, as well as the header and footer. For this project it validates the form only. 
+This page confirms details have been sent to Craig and provides a direct link back to the home page, as well as the header and footer. For this project it validates the form only. It also contains an address and map to Crig's studio. 
 
-<!-- pic of form conf -->
+![Contact Form Image](assets/readme-images/contact-form.png)
+
+![Contact Details Image](assets/readme-images/contact-details.png)
 
 ### Future Features
 
@@ -217,7 +219,7 @@ The site was deployed to GitHub pages.
 3. Under source, select branch ‘master’ and then click ‘save’
 4. page will no automatically refresh and show a detailed ribbon display to indicate deployment 
 
-<!-- pic of pages with procreate highlighted bits SEE WAWWAS WOODS PIC HERE -->
+![Deployment Process Image](assets/readme-images/deployment-image.jpg)
 
 ### To Fork the Repository 
 
@@ -226,7 +228,7 @@ To make a copy or ‘fork’ the repository -
 1. Log into github and locate repository 
 2. On the right hand side of the page select the ‘fork’ option to create and copy of the original
 
-<!-- pic of where the fork button is WAWWAS WOODS -->
+![Forking Process Image](assets/readme-images/fork-image.jpg)
 
 ### To create a Local Clone 
 
@@ -238,7 +240,7 @@ To make a copy or ‘fork’ the repository -
 6. press enter and the local clone will be created 
 
 
-<!-- NEED TO REWORD THIS ITS BASICALLY IN WAWWAS LANGUAGE pic of cloning processes -->
+![Clonging Process image](assets/readme-images/clone-image.jpg)
 
 ## Credits 
 
