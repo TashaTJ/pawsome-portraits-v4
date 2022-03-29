@@ -70,9 +70,19 @@ After some below 90 scores on initial mobile tests, I compressed the site images
 
 ## Responsiveness 
 
-Responsive design tests were carried out manually using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and then toying with different devices including iphone13, 12, 11, Ipad Pro, Airbook, Macbook and Galaxy Note 8.
+Responsive design tests were carried out manually using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/). 
 
-On wide display types the contents of the site are restricted in width to 2000px. This helps the UX by not spreading the content too wide on the extra wide screens.
+This included:
+- Iphone SE, XR, 12pro
+- Pixel 5
+- Samsung Galaxy S8, S20 Ultra, A51/71
+- Ipad Air & Mini
+- Surface pro 7 & duo
+- Galaxy Fold
+- Nest Hub & Hub Max
+
+I also tested on iphone13, Ipad Pro, Macbook and Galaxy Note 8. The only known issues are with the Galaxy fold, where images are not rendering correctly. In future this could be solved via more specific media queires. Otherwise all content and imagery appeared to render as inteneded on all sited devices.
+
 
 ## A11y Color Contrast Accessibility Checker
 
