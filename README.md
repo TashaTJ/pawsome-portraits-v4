@@ -184,9 +184,9 @@ The portraits are displayed in one simple and symmetrical gallery, with only whi
 
 Via pictures and text placed on a fully responsive grid, users can get to know the man behind the artworks a little better. 
 It contains a short blurb describing what the Pawtraits are and how the project began and links to Craig's other work, should interested parties want to investigate further.
-All links open in new tabs for a positive user experience. It also contains a photo of Craig and another photo of his work in it's real life environment. I have treated the photos so they contain a white frame and therefore the website background white acts as a real life gallery wall which the pictures appear to hang from. 
+All links open in new tabs for a positive UX. It also contains a photo of Craig and another photo of his work in it's real life environment. I have treated the photos so they contain a white frame and therefore the website background white acts as a real life gallery wall which the pictures appear to hang from. 
 
-![About Page Image](assets/readme-images/about-image.png)
+![About Page Image](assets/readme-images/about-page-image-sml.png)
 
 #### Learn
 
@@ -220,6 +220,7 @@ This page confirms details have been sent to Craig and provides a direct link ba
 - A feature within the main gallery allowing the users to view the photos individually when clicked on, with zoom capabilities. 
 - An online shop containing a price list, gallery and options to have your portrait printed on a t-shirt or mugs etc.
 - A multi media blog containing images, text entries and video so that Craig can communicate his process, musings and inspiration in real time. This blog however must be easy for Craig to update without the developer. This will also require a small amendment to the navbar. 
+- An arrow guiding the user back to the top should the pages get longer than their current state.
 - I would personally like to experiment with building this site as a one page site. 
 
 ***
