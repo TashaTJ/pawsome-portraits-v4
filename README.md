@@ -1,4 +1,8 @@
 # Portfolio Project 1 - HTML/CSS Essentials
+
+Pawsome Pawtraits is an art collection of digital dog portraits, by graphic designer Craig Antony Kelly. [This site](https://tashatj.github.io/pawsome-portraits-v4/) is intended to showcase the artworks to potential customers, whilst at the same time teaching art skills and generating further work for Craig.
+
+
 ![Multi Device Demo](assets/readme-images/pp1-multi-device.png)
 
 ## Live Site 
@@ -22,13 +26,13 @@
     - [Typography](#typography)
     - [Imagery](#imagery)
 - [Features](#features)
-    - [Existing](#existing)
-        -[Home](#home)
-        -[Dogs](#dogs)
-        -[About](#about)
-        -[Learn](#learn)
-        -[Contact](#contact)
-        -[Form Confirmation](#form-confirmation)
+    - [Existing Features](#existing-features)
+        - [Home](#home)
+        - [Dogs](#dogs)
+        - [About](#about)
+        - [Learn](#learn)
+        - [Contact](#contact)
+        - [Form Confirmation](#form-confirmation)
     - [Future Features](#future-features)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
@@ -60,10 +64,12 @@ The website should promote Craig Kelly’s graphic design skills and the pet por
 ## Target Audience
 Dog lovers, Art enthusiasts, collaborators & customers. 
 
+***
+
 
 ## UX: User Experience
 
-## User Stories 
+### User Stories 
 
 As a user I want to be able to:
 
@@ -75,15 +81,15 @@ As a user I want to be able to:
 - Connect with Craig on social media 
 - Learn more about the developer who created the site
 
-## Initial Concept
+### Initial Concept
 With such compelling visual content from the Artist, I want to create a minimal and sleek monochrome theme to allow the work to shine and not have to compete with the website design. I have often referred back to the [Apple website](https://www.apple.com/uk/) for inspiration. 
 
-## Wireframes
+### Wireframes
 
 The Wireframes were produced using [Balsamiq](https://balsamiq.com/). 
 The final site varies from the wireframes due to developments that occurred during the building process. 
 
-### Phone
+#### Phone
 
 Home Page:
 
@@ -106,19 +112,19 @@ Contact Page:
 ![Contact Page Wireframe](assets/readme-images/pp1-wireframes-contact.png)
 
 
-### Tablet 
+#### Tablet 
 
 ![Tablet Wireframes](assets/readme-images/tablet-wireframes.jpg)
 
-### Desktop 
+#### Desktop 
 
 ![Desktop Wireframes](assets/readme-images/desktop-wireframes.jpg)
 
-## Site Structure
+### Site Structure
 
-Pawsome Portraits is a 5 page website. The home page is the default loading page. the other pages are accessible from the navigation menu. There’s also another link to the contact page in the about page, guiding the user to their next steps for a great user experience.  
+Pawsome Portraits is a 5 page website. The home page is the default loading page. the other pages are accessible from the navigation menu at all times.  
 
-## Colour Scheme
+### Colour Scheme
 
 My colour scheme will take inspiration from the hero image including white, mellow gold, turquoise and black. These colours will form a strong monochrome base point for the website, allowing the vibrant colours of the artwork to ‘pop’.
 I used [coolors.co](https://coolors.co/d3ab9e-eac9c1-ebd8d0-fffbff-fefeff) to generate some colour codes as inspiration for the site. After some experimentation I settled on some different shades of the original selection to ensure contrast was optimised for a good UX.
@@ -131,14 +137,14 @@ Final Colour Selection:
 
 ![Coolors Clours Palette 2](assets/readme-images/coolors-chart-experiments.png)
 
-## Typography
+### Typography
 
 The two fonts used were imported into the css from [google fonts](https://fonts.google.com/).
 Bangers, for headings and titles, was chosen for it’s playful comic book nature, which compliments the cheeky character of the dogs brought about in the portraits themselves. 
 Roboto, with it’s friendly, open curves continues this positive and welcoming theme into the paragraph text. 
 Sans-serif is the nominated fallback font, due to it’s simplicity, therefore allowing it to integrate well into the site should the other fonts not load. 
 
-## Imagery
+### Imagery
 
 The artwork is the main focus of the site and therefore features heavily within it. Many have been compressed in [compressor.io](https://compressor.io/) to enable faster loading times. 
 The content images are aligned in neat symmetrical grids for optimal viewing and user experience. 
@@ -232,17 +238,21 @@ This page confirms details have been sent to Craig and provides a direct link ba
 - [Github](https://github.com/) - used to deploy the website 
 - [Multi Device Mock Up Generator](https://techsini.com/multi-mockup/) - to create an image displaying the home page on various devices 
 
+***
+
+
 ## Testing
 
-Please refer [**_here_**](TESTING.md) for more information on testing of the Pawsome Portraits website. 
+Please refer [**_here_**](TESTING.md) for more information on testing of the Pawsome Pawtraits website. 
 
-<!-- add link and create new doc re testing -->
+***
+
+
+## Deployment
 
 The site was deployed to GitHub pages. 
 
-### Deployment Instructions
-
-#### Deploy to GitHub Pages
+### Deploy to GitHub Pages
 
 1. Navigate to the settings tab in the GitHub repository 
 2. Once in settings, navigate to the pages tab on the left of the page 
@@ -260,7 +270,7 @@ To make a copy or ‘fork’ the repository -
 
 ![Forking Process Image](assets/readme-images/fork-image.jpg)
 
-### To create a Local Clone 
+### To create a Local Clone 
 
 1. under the repository name, click on the ‘code’ tab 
 2. in the clone box, HTTPS tab, click on the clipboard icon 
@@ -272,13 +282,13 @@ To make a copy or ‘fork’ the repository -
 
 ![Clonging Process image](assets/readme-images/clone-image.jpg)
 
+***
+
+
 ## Credits 
 
 ### Content 
-- The hamburger menu was inspired by a youtube [tutorial](https://youtu.be/uugicVDUzMA)
-- The image gallery was inspired by this youtube [tutorial](https://www.youtube.com/watch?v=rnhoY5Cdmy0)
-- The sticky footer was inspired by this [tutorial](
-https://webdesign.tutsplus.com/tutorials/how-to-build-a-responsive-multi-level-sticky-footer-with-flexbox--cms-33341?_ga=2.55476395.1460857226.1647778214-1349846198.1645535117) 
+
 - Many issues were at least partly resolved by searching [Stack Overflow](https://stackoverflow.com/)  
 - Ger, a CI mentor helped with my understanding of a responsive css nav bar. 
 - Inspiration for the README.md came from [Dave Horrick's repository](https://github.com/DaveyJH/ci-portfolio-one-v4/blob/main/README.md) 
@@ -287,6 +297,15 @@ https://webdesign.tutsplus.com/tutorials/how-to-build-a-responsive-multi-level-s
 
 ### Media 
 All photos and the rights to them are owned by the artist [Craig Antony Kelly](https://www.craiganthonykelly.co.uk/), who gave his full permission for use in this website.
+
+### Code
+
+Throughout the building process I found many helpful tutorials online. I sometimes applied principles within them to the site, after fully understanding their code and modifying to fit the site's needs. 
+
+- The hamburger menu was inspired by this youtube [tutorial](https://youtu.be/uugicVDUzMA)
+- The image gallery was inspired by this youtube [tutorial](https://www.youtube.com/watch?v=rnhoY5Cdmy0)
+- The sticky footer was inspired by this [tutorial](
+https://webdesign.tutsplus.com/tutorials/how-to-build-a-responsive-multi-level-sticky-footer-with-flexbox--cms-33341?_ga=2.55476395.1460857226.1647778214-1349846198.1645535117)
 
 ## Acknowledgements 
 This website was executed and completed as a portfolio 1 Project for the full stack diploma at [Code Institute](https://codeinstitute.net/). 
