@@ -1,6 +1,6 @@
 # Portfolio Project 1 - HTML/CSS Essentials
 
-Pawsome Pawtraits is an art collection of digital dog portraits, by graphic designer Craig Antony Kelly. [This site](https://tashatj.github.io/pawsome-portraits-v4/) is intended to showcase the artworks to potential customers, whilst at the same time teaching art skills and generating further work for Craig.
+Pawsome Pawtraits is an art collection of digital dog portrature, by graphic designer Craig Antony Kelly. [This site](https://tashatj.github.io/pawsome-portraits-v4/) is intended to showcase the artworks to potential customers, whilst at the same time teaching art skills and generating further work for Craig.
 
 
 ![Multi Device Demo](assets/readme-images/pp1-multi-device.png)
